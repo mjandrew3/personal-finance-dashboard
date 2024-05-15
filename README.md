@@ -11,11 +11,11 @@ With the use of Quicken, I've been able to connect all of my accounts (savings, 
 The Quicken component, while immensely helpful for me, isn't necessarily required.  This tool relies on a number of CSVs, which can be updated directly based on your financial statements and transactions.  While that may need to be done manually, it still allows you to use this tool to its full extent.
 
 The required Files are:
-** Budget.xlsx - A file containing all of your budgeting decisions.  This file is in a long data format and each month needs to be updated based on your budgeting needs.  This file can be built and adjusted using the app, as the budgeting page in the tool will automatically overwrite and update this file.
-** Spending File.csv - A file with all of your transaction details across all of your accounts.
-** Account File.csv - A file that contains all of your balances by month across all of your accounts.  While not directly useful in my day to day, a yearly review of my overall net wealth is helpful.
-** Hierarchy.csv - A file that describes the categories that I use and the details about them.  For example, I have a category "Health & Fitness" with a subcategory "Doctor", which has a monthly budget and is considered an expense.  This file helps my categorize and group these budget categories.
-** Investment File.csv - A file that is used to show all of my investment and trading transactions.  It supports stocks, dividends, bonds, options, and mutual funds.
+* Budget.xlsx - A file containing all of your budgeting decisions.  This file is in a long data format and each month needs to be updated based on your budgeting needs.  This file can be built and adjusted using the app, as the budgeting page in the tool will automatically overwrite and update this file.
+* Spending File.csv - A file with all of your transaction details across all of your accounts.
+* Account File.csv - A file that contains all of your balances by month across all of your accounts.  While not directly useful in my day to day, a yearly review of my overall net wealth is helpful.
+* Hierarchy.csv - A file that describes the categories that I use and the details about them.  For example, I have a category "Health & Fitness" with a subcategory "Doctor", which has a monthly budget and is considered an expense.  This file helps my categorize and group these budget categories.
+* Investment File.csv - A file that is used to show all of my investment and trading transactions.  It supports stocks, dividends, bonds, options, and mutual funds.
 
 ## 3. Architectural Design
 
@@ -23,6 +23,7 @@ The app is built to be modular and re-usable.  Should you wish to not use invest
 
 The overall structure of the app is:
 
+```bash
 personal-finance-dashboard/
 |---apps/
     |---account.py      # Account Details
@@ -45,6 +46,7 @@ personal-finance-dashboard/
     |---Investment.csv
 |---app.py
 |---index.py
+```
 
 ## 4. How to Use
 
