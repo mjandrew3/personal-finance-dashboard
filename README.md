@@ -29,21 +29,21 @@ personal-finance-dashboard/
     |---account.py      # Account Details
     |---actual.py       # Actual Income v Actual Expense
     |---budget.py       # Budget Income v Budget Expense
-    |---detail.py      # A Detail wrapper page to break down actual vs budget for income vs expenses
-    |---expense.py     # Actual Expense v Budgeted Expense
+    |---detail.py       # A Detail wrapper page to break down actual vs budget for income vs expenses
+    |---expense.py      # Actual Expense v Budgeted Expense
     |---income.py       # Acutal Income v Budgeted Income
-    |---investment.py  # Investments
+    |---investment.py   # Investments
     |---summary.py      # High level summary of income vs expenses for actual and budget
 |---assets/
     |---favicon.ico
     |---Loading.gif
     |---style.css
 |---datasets/
-    |---Budget.csv
-    |---Spending.csv
-    |---Account.csv
-    |---Hiearchy.csv
-    |---Investment.csv
+    |---budget.csv
+    |---spend.csv
+    |---account.csv
+    |---hiearchy.csv
+    |---investment.csv
 |---app.py
 |---index.py
 ```
