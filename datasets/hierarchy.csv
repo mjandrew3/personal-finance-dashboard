@@ -1,0 +1,149 @@
+Category,Frequency,Type Detail,Category Type,Type
+Account,Monthly,[American Express - Credit Card 1],Account,Credit Card
+Account,Monthly,[Bank of America - Checking Account],Account,Checking
+Account,Monthly,[Charles Schwab - Checking Account 1],Account,Checking
+Account,Monthly,[Charles Schwab - Investing Account 1],Account,Investing
+Account,Monthly,[Chase - Checking Account 1],Account,Checking
+Account,Monthly,[Chase - Checking Account 2],Account,Checking
+Account,Monthly,[Chase - Credit Card 1],Account,Credit Card
+Account,Monthly,[Chase - Credit Card 2],Account,Credit Card
+Account,Monthly,[Chase - Savings Account 1],Account,Savings
+Account,Monthly,[Fidelity - Investing Account 1],Account,Investing
+Account,Monthly,[Fidelity - Retirement Account 1],Account,Retirement
+Account,Monthly,[Firstrade - Investing Account 1],Account,Investing
+Account,Monthly,[Interactive Brokers - Investing Account 1],Account,Investing
+Account,Monthly,[Child Savings Account 1],Account,Savings
+Account,Monthly,[Child Savings Account 2],Account,Savings
+Account,Monthly,[Total],Account,Total
+Account,Monthly,[UOB - Checking Account 1],Account,Checking
+Account,Monthly,[UOB - Checking Account 2],Account,Checking
+Investment,Monthly,_DivInc,Income,Dividends
+Investment,Monthly,_IntInc,Income,Interest
+Investment,Monthly,_RlzdGain,Income,Realized Gain
+Income/Expense,Monthly,Auto & Transport:Auto Payment,Expense,Auto & Transport
+Income/Expense,Monthly,Auto & Transport:Gas & Fuel,Expense,Auto & Transport
+Income/Expense,Monthly,Auto & Transport:Parking,Expense,Auto & Transport
+Income/Expense,Monthly,Auto & Transport:Public Transportation,Expense,Auto & Transport
+Income/Expense,Monthly,Auto & Transport:Registration,Expense,Auto & Transport
+Income/Expense,Monthly,Auto & Transport:Service & Parts,Expense,Auto & Transport
+Income/Expense,Monthly,Auto & Transport:Taxi & Uber,Expense,Auto & Transport
+Income/Expense,Monthly,Auto & Transport:Tolls,Expense,Auto & Transport
+Income/Expense,Monthly,Bills & Utilities,Expense,Bills & Utilities
+Income/Expense,Monthly,Bills & Utilities:Credit Card Payment,Expense,Bills & Utilities
+Income/Expense,Monthly,Bills & Utilities:Home Phone,Expense,Bills & Utilities
+Income/Expense,Monthly,Bills & Utilities:Internet,Expense,Bills & Utilities
+Income/Expense,Monthly,Bills & Utilities:Mobile Phone,Expense,Bills & Utilities
+Income/Expense,Monthly,Bills & Utilities:Utilities,Expense,Bills & Utilities
+Income/Expense,Monthly,Cash & ATM,Expense,Cash & ATM
+Investment,Monthly,Div Income,Income,Dividends
+Income/Expense,Monthly,Education:Fees,Expense,Education
+Income/Expense,Monthly,Entertainment,Expense,Entertainment
+Income/Expense,Monthly,Entertainment:Amusement,Expense,Entertainment
+Income/Expense,Monthly,Entertainment:Movies & DVDs,Expense,Entertainment
+Income/Expense,Monthly,Entertainment:Newspaper & Magazines,Expense,Entertainment
+Income/Expense,Monthly,Entertainment:Party,Expense,Entertainment
+Income/Expense,Monthly,Fees & Charges,Expense,Fees & Charges
+Income/Expense,Monthly,Fees & Charges:ATM Fee,Expense,Fees & Charges
+Income/Expense,Monthly,Fees & Charges:Bank Fee,Expense,Fees & Charges
+Income/Expense,Yearly,Fees & Charges:Credit Card - Fee,Expense,Fees & Charges
+Income/Expense,Monthly,Fees & Charges:Credit Card - Rewards,Expense,Fees & Charges
+Income/Expense,Monthly,Fees & Charges:Currency Adjustment,Expense,Fees & Charges
+Income/Expense,Monthly,Fees & Charges:Late Fee,Expense,Fees & Charges
+Income/Expense,Monthly,Fees & Charges:Service Fee,Expense,Fees & Charges
+Investment,Monthly,Fees & Charges:Trade Commissions,Expense,Fees & Charges
+Income/Expense,Yearly,Financial,Expense,Financial
+Income/Expense,Yearly,Financial:Life Insurance,Expense,Financial
+Income/Expense,Monthly,Food & Dining,Expense,Food & Dining
+Income/Expense,Monthly,Food & Dining:Bars & Restaurants,Expense,Food & Dining
+Income/Expense,Monthly,Food & Dining:Coffee Shops,Expense,Food & Dining
+Income/Expense,Monthly,Food & Dining:Delivery,Expense,Food & Dining
+Income/Expense,Monthly,Food & Dining:Fast Food,Expense,Food & Dining
+Income/Expense,Monthly,Food & Dining:Groceries,Expense,Food & Dining
+Income/Expense,Monthly,Food & Dining:Lunch,Expense,Food & Dining
+Income/Expense,Yearly,Gifts & Donations,Expense,Gifts & Donations
+Income/Expense,Yearly,Gifts & Donations:Charity,Expense,Gifts & Donations
+Income/Expense,Yearly,Gifts & Donations:Gift,Expense,Gifts & Donations
+Income/Expense,Yearly,Gifts & Donations:Reimbursed Purchases,Expense,Gifts & Donations
+Income/Expense,Monthly,Health & Fitness,Expense,Health & Fitness
+Income/Expense,Monthly,Health & Fitness:Child 1,Expense,Health & Fitness
+Income/Expense,Yearly,Health & Fitness:Dentist,Expense,Health & Fitness
+Income/Expense,Yearly,Health & Fitness:Doctor,Expense,Health & Fitness
+Income/Expense,Yearly,Health & Fitness:Eyecare,Expense,Health & Fitness
+Income/Expense,Monthly,Health & Fitness:Gym,Expense,Health & Fitness
+Income/Expense,Yearly,Health & Fitness:Health Insurance,Expense,Health & Fitness
+Income/Expense,Monthly,Health & Fitness:Child 3,Expense,Health & Fitness
+Income/Expense,Yearly,Health & Fitness:Pharmacy,Expense,Health & Fitness
+Income/Expense,Monthly,Health & Fitness:Sports,Expense,Health & Fitness
+Income/Expense,Monthly,Health & Fitness:Child 2,Expense,Health & Fitness
+Income/Expense,Monthly,Home,Expense,Home
+Income/Expense,Monthly,Home:Cleaning,Expense,Home
+Income/Expense,Yearly,Home:Furnishings,Expense,Home
+Income/Expense,Yearly,Home:HOA Dues,Expense,Home
+Income/Expense,Yearly,Home:Home Improvement,Expense,Home
+Income/Expense,Yearly,Home:Home Services,Expense,Home
+Income/Expense,Yearly,Home:Home Supplies,Expense,Home
+Income/Expense,Monthly,Home:Lawn & Garden,Expense,Home
+Income/Expense,Monthly,Home:Rent,Expense,Home
+Income/Expense,Monthly,Interest Inc,Income,Interest
+Income/Expense,Monthly,Kids,Expense,Kids
+Income/Expense,Monthly,Kids:Baby Supplies,Expense,Kids
+Income/Expense,Monthly,Kids:Babysitter & Daycare,Expense,Kids
+Income/Expense,Monthly,Kids:Clothing,Expense,Kids
+Income/Expense,Monthly,Kids:Diapers,Expense,Kids
+Income/Expense,Monthly,Kids:Formula,Expense,Kids
+Income/Expense,Monthly,Kids:Kids Activities,Expense,Kids
+Income/Expense,Monthly,Kids:Toys,Expense,Kids
+Income/Expense,Monthly,Kids:Wipes,Expense,Kids
+Income/Expense,Yearly,Memberships,Expense,Memberships
+Income/Expense,Monthly,Memberships:Subscriptions,Expense,Memberships
+Income/Expense,Monthly,Net Salary:Bonus,Income,Salary
+Income/Expense,Monthly,Net Salary:Salary,Income,Salary
+Income/Expense,Monthly,Net Salary:Salary Spouse,Income,Salary
+Income/Expense,Monthly,Other Entertainment,Expense,Entertainment
+Income/Expense,Monthly,Other Fees & Charges,Expense,Fees & Charges
+Income/Expense,Monthly,Other Food & Dining,Expense,Food & Dining
+Income/Expense,Monthly,Other Gifts & Donations,Expense,Gifts & Donations
+Income/Expense,Monthly,Other Health & Fitness,Expense,Health & Fitness
+Income/Expense,Yearly,Other Home,Expense,Home
+Work,Monthly,Other Inc,Income,Other Inc
+Income/Expense,Monthly,Other Kids,Expense,Kids
+Other,Monthly,Other Misc.,Expense,Misc
+Income/Expense,Monthly,Other Personal Care,Expense,Personal Care
+Income/Expense,Yearly,Other Shopping,Expense,Shopping
+Income/Expense,Monthly,Other Travel,Expense,Travel
+Income/Expense,Monthly,Personal Care,Expense,Personal Care
+Income/Expense,Monthly,Personal Care:Hair,Expense,Personal Care
+Income/Expense,Monthly,Personal Care:Laundry,Expense,Personal Care
+Income/Expense,Monthly,Personal Care:Spa & Massage,Expense,Personal Care
+Income/Expense,Monthly,Pets:Vet,Expense,Home
+Income/Expense,Yearly,Relocation,Expense,Home
+Income/Expense,Yearly,Shopping,Expense,Shopping
+Income/Expense,Yearly,Shopping:Books,Expense,Shopping
+Income/Expense,Yearly,Shopping:Clothing,Expense,Shopping
+Income/Expense,Yearly,Shopping:Electronics & Software,Expense,Shopping
+Income/Expense,Monthly,Shopping:Jewelry,Expense,Shopping
+Income/Expense,Monthly,Shopping:Sporting Goods,Expense,Shopping
+Income/Expense,Monthly,Tax,Expense,Tax
+Income/Expense,Monthly,Tax:Fed,Expense,Tax
+Income/Expense,Monthly,Tax:Singapore,Expense,Tax
+Income/Expense,Monthly,Tax:State,Expense,Tax
+Income/Expense,Monthly,Travel,Expense,Travel
+Income/Expense,Monthly,Travel:Air Fees & Baggage,Expense,Travel
+Income/Expense,Monthly,Travel:Air Travel,Expense,Travel
+Income/Expense,Monthly,Travel:Cash,Expense,Travel
+Income/Expense,Monthly,Travel:Diving,Expense,Travel
+Income/Expense,Monthly,Travel:Entertainment,Expense,Travel
+Income/Expense,Monthly,Travel:Grocery,Expense,Travel
+Income/Expense,Monthly,Travel:Hotel,Expense,Travel
+Income/Expense,Monthly,Travel:Public Transport,Expense,Travel
+Income/Expense,Monthly,Travel:Rental Car & Taxi,Expense,Travel
+Income/Expense,Monthly,Travel:Restaurant,Expense,Travel
+Income/Expense,Monthly,Travel:Travel Insurance,Expense,Travel
+Income/Expense,Yearly,Travel:US Flights,Expense,Travel
+Income/Expense,Monthly,Travel:Vacation,Expense,Travel
+Income/Expense,Monthly,Travel:Visa,Expense,Travel
+Income/Expense,Monthly,Education:Child 1,Expense,Education
+Income/Expense,Monthly,Education:Child 2,Expense,Education
+Income/Expense,Monthly,Education:Child 3,Expense,Education
+Income/Expense,Monthly,Education,Expense,Education
+Income/Expense,Monthly,Interest Exp,Expense,Interest

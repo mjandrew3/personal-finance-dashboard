@@ -1,6 +1,13 @@
 
 import pandas as pd
+import dash_bootstrap_components as dbc
+import plotly.graph_objs as go
+import pandas as pd
+import numpy as np
+import datetime
 
+from dash import dcc, html
+from dateutil.relativedelta import relativedelta
 
 def file_read(filename):
     '''Reads in file and handles exceptions if not available.
@@ -21,62 +28,45 @@ def get_data(type_='total'):
     
     '''
     #Read in necessary files
-    budget_file = file_read("budget.csv")
-    spend_file = file_read("spend.csv")
-    spend_file['Type'] = spend_file['Type'].fillna("[" + spend_file['Account'] + ']')
-    hierarchy_file = file_read("hierarchy.csv")
+    budget_file = file_read("datasets/budget.csv")
+    spend_file = file_read("datasets/spend.csv")
+    spend_file['Type Detail'] = spend_file['Type Detail'].fillna("[" + spend_file['Account'] + ']')
+    hierarchy_file = file_read("datasets/hierarchy.csv")
 
     #Process files for app
-    original_file = spend_file.merge(hierarchy_file, 'left', 'Type')
+    original_file = spend_file.merge(hierarchy_file, 'left', 'Type Detail')
     original_file['Dummy'] = 'Dummy'
     original_file['Amount'] = original_file['Amount'].astype(str).str.replace(",","").astype(float).round(2)
     original_file['YearMonth'] = pd.to_datetime(original_file['Date Applied'], format='%Y-%m-%d').dt.strftime('%Y-%m')
-    original_file['Type'] = np.where(original_file['Type'].str[:5]=='Other',
-                                    original_file['Type2'] + ":" + original_file['Type'],
-                                    original_file['Type'])
+    original_file['Type Detail'] = np.where(original_file['Type Detail'].str[:5]=='Other',
+                                    original_file['Type'] + ":" + original_file['Type Detail'],
+                                    original_file['Type Detail'])
     spend_file = original_file[original_file['Category']=='Income/Expense']
     #yearmonth = [{'label':x.strftime('%Y-%m'),'value':x.strftime('%b %Y')} for x in list(pd.to_datetime(spend_file['Date Applied']).dt.to_period('M').sort_values().unique())]
     
     if type_ == 'budget':
-        budget_file = file_read("budget.csv")
         budget_file['Category'] = 'Budget'
         budget_file['Date Applied'] = pd.to_datetime(budget_file['Date'], format='%Y-%m-%d').dt.strftime('%Y-%m-%d')
         budget_file['YearMonth'] = pd.to_datetime(budget_file['Date'], format='%Y-%m-%d').dt.strftime('%Y-%m')
         budget_file['Amount'] = budget_file['Amount'].astype(str).str.replace(",","").str.replace("$","").str.replace("`","0").astype(float).round(2)
-        budget_file = budget_file.merge(spend_file[['Type','Type1','Type2','Frequency','Dummy']].drop_duplicates(), on='Type', how='left')
-        budget_file['Type1'] = budget_file['Type1'].fillna('Other')
-        budget_file['Type2'] = budget_file['Type2'].fillna('Other')
+        budget_file = budget_file.merge(spend_file[['Type','Type Detail','Category Type','Frequency','Dummy']].drop_duplicates(), on='Type Detail', how='left')
+        budget_file['Type'] = budget_file['Type'].fillna('Other')
+        budget_file['Category Type'] = budget_file['Category Type'].fillna('Other')
         budget_file['Frequency'] = budget_file['Frequency'].fillna('Monthly')
         budget_file['Dummy'] = budget_file['Dummy'].fillna('Dummy')
         return budget_file
     elif type_ == 'total':
         return spend_file
     elif type_ == 'invest':
-        invest_file = file_read("investment.csv")
+        invest_file = file_read("datasets\investment.csv")
         invest_file['YearMonth'] = (pd.to_datetime(invest_file['Date'], format='%Y-%m-%d')).dt.strftime('%Y-%m')
         return invest_file
     elif type_ == 'account':
         return original_file
-    '''
-    elif type_ == "accountv2"
-        account_file = file_read("account.csv")
-        account_file = account_file[account_file['Type'].isin(['Cash and Bank Accounts','Investments','Credit Cards'])]
-        account_file.columns = list(account_file.columns.values[:2])
-                            +list((pd.to_datetime(account_file.columns.values[2:], 
-                                                    format='%m/%d/%Y')).strftime('%Y-%m'))
-        account_file = account_file.set_index(['Type','Account']).stack().reset_index().rename(
-            columns={'level_2':'YearMonth',0:'Amount'})
-        account_file['Dummy']='Total'
-        account_file['Amount'] = account_file['Amount'].astype(str).str.replace(",","").astype(float)
-        account_file['Amount'] = np.where(account_file['Type']=='Credit Cards',
-                                        account_file['Amount']*-1,
-                                        account_file['Amount'])
-        account_file = account_file[account_file['YearMonth']>='2017-01']
-    '''
     elif type_ == 'hierarchy':
-        return hierarchy
+        return hierarchy_file
     else:
-        spend_file_new = spend_file.append(budget_file[['Type','Amount','Type1','YearMonth','Type2','Dummy','Category','Frequency','Date Applied']].drop_duplicates())
+        spend_file_new = spend_file.append(budget_file[['Type Detail','Amount','Type','YearMonth','Category Type','Dummy','Category','Frequency','Date Applied']].drop_duplicates())
         return spend_file_new
     
 def string_to_dict(url):
@@ -100,7 +90,7 @@ def get_options(all_options,total=None,sort=True):
             options = [{'label':x,'value':x} for x in all_options]
     return options
 
-def generate_table(df,columns=['Type1','Type2'],date_var='YearMonth',amount_var='Amount',agg_type='sum',inc_date=True, num_months=1,sort_by='Categories',month_value='full'):
+def generate_table(df,columns=['Type','Category Type'],date_var='YearMonth',amount_var='Amount',agg_type='sum',inc_date=True, num_months=1,sort_by='Categories',month_value='full'):
     if inc_date == False:
         agg_columns = columns[:]
     else:
@@ -166,7 +156,7 @@ def generate_table(df,columns=['Type1','Type2'],date_var='YearMonth',amount_var=
     table = dbc.Table.from_dataframe(df_total.fillna("Total"), float_format=',.0f', bordered=True, striped=True, dark=True, hover=True, responsive=True)
     return table
 
-def generate_graph(df,column='Type1',date_var='YearMonth',amount_var='Amount',diff=True,diff_column='Type1'):
+def generate_graph(df,column='Type',date_var='YearMonth',amount_var='Amount',diff=True,diff_column='Type'):
     
     graph_data = [go.Bar(name=z, x = df[df[column]==z]['YearMonth'],
                         y = df[df[column]==z]['Amount']) for z in df[column].unique()]
@@ -187,4 +177,16 @@ def generate_graph(df,column='Type1',date_var='YearMonth',amount_var='Amount',di
     return dcc.Graph(figure={'data':graph_data})
 
 
+def reset_datafiles():
+    budget = file_read('datasets/budget.csv')
+    spend = file_read('datasets/spend.csv')
+    investment = file_read('datasets/investment.csv')
 
+    budget['Date'] = pd.to_datetime(budget['Date'], format='%m/%d/%Y').dt.strftime('%Y-%m-%d')
+    spend['Date'] = pd.to_datetime(spend['Date'], format='%m/%d/%Y').dt.strftime('%Y-%m-%d')
+    spend['Date Applied'] = pd.to_datetime(spend['Date Applied'], format='%m/%d/%Y').dt.strftime('%Y-%m-%d')
+    investment['Date'] = pd.to_datetime(investment['Date'], format='%m/%d/%Y').dt.strftime('%Y-%m-%d')
+
+    budget.to_csv('datasets/budget.csv')
+    spend.to_csv('datasets/spend.csv')
+    investment.to_csv('datasets/investment.csv')

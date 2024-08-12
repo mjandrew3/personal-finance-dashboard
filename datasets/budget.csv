@@ -1,0 +1,1434 @@
+,Date,Type Detail,Amount
+0,2023-01-01,401K,-3000
+1,2023-01-01,Auto & Transport:Auto Payment,-500
+2,2023-01-01,Auto & Transport:Gas & Fuel,-100
+3,2023-01-01,Auto & Transport:Parking,-50
+4,2023-01-01,Auto & Transport:Public Transportation,-50
+5,2023-01-01,Auto & Transport:Taxi & Uber,-100
+6,2023-01-01,Bills & Utilities:Internet,-50
+7,2023-01-01,Bills & Utilities:Mobile Phone,-100
+8,2023-01-01,Bills & Utilities:Utilities,-250
+9,2023-01-01,Cash & ATM,-100
+10,2023-01-01,Child Savings Account 1,-50
+11,2023-01-01,Child Savings Account 2,-50
+12,2023-01-01,Entertainment,-80
+13,2023-01-01,Fees & Charges,0
+14,2023-01-01,Financial:Life Insurance,-1000
+15,2023-01-01,Food & Dining:Bars & Restaurants,-450
+16,2023-01-01,Food & Dining:Coffee Shops,-150
+17,2023-01-01,Food & Dining:Delivery,-250
+18,2023-01-01,Food & Dining:Groceries,-2000
+19,2023-01-01,Food & Dining:Lunch,-75
+20,2023-01-01,Gifts & Donations:Charity,0
+21,2023-01-01,Gifts & Donations:Gift,-200
+22,2023-01-01,Health & Fitness:Child 1,-200
+23,2023-01-01,Health & Fitness:Child 2,-200
+24,2023-01-01,Health & Fitness:Child 3,-300
+25,2023-01-01,Health & Fitness:Dentist,-60
+26,2023-01-01,Health & Fitness:Doctor,-300
+27,2023-01-01,Health & Fitness:Eyecare,-50
+28,2023-01-01,Health & Fitness:Gym,0
+29,2023-01-01,Health & Fitness:Health Insurance,0
+30,2023-01-01,Health & Fitness:Pharmacy,-50
+31,2023-01-01,Home:Cleaning,-500
+32,2023-01-01,Home:Furnishings,-50
+33,2023-01-01,Home:Home Supplies,-60
+34,2023-01-01,Home:Rent,-6000
+35,2023-01-01,Kids:Baby Supplies,-100
+36,2023-01-01,Kids:Babysitter & Daycare,-3700
+37,2023-01-01,Kids:Clothing,-20
+38,2023-01-01,Kids:Diapers,-100
+39,2023-01-01,Kids:Kids Activities,-50
+40,2023-01-01,Kids:Toys,-10
+41,2023-01-01,Kids:Wipes,-30
+42,2023-01-01,Memberships,-3
+43,2023-01-01,Net Salary:Bonus,8000
+44,2023-01-01,Net Salary:Salary,15000
+45,2023-01-01,Net Salary:Salary Spouse,15000
+46,2023-01-01,Other,0
+47,2023-01-01,Personal Care,-100
+48,2023-01-01,Shopping:Clothing,-150
+49,2023-01-01,Shopping:Electronics & Software,-20
+50,2023-01-01,Tax:Singapore,-4000
+51,2023-01-01,Travel:Air Travel,0
+52,2023-01-01,Travel:Cash,0
+53,2023-01-01,Travel:Entertainment,0
+54,2023-01-01,Travel:Grocery,0
+55,2023-01-01,Travel:Hotel,0
+56,2023-01-01,Travel:Rental Car & Taxi,0
+57,2023-01-01,Travel:Restaurant,0
+58,2023-01-01,Travel:US Flights,0
+59,2023-02-01,401K,-3000
+60,2023-02-01,Auto & Transport:Auto Payment,-500
+61,2023-02-01,Auto & Transport:Gas & Fuel,-100
+62,2023-02-01,Auto & Transport:Parking,-50
+63,2023-02-01,Auto & Transport:Public Transportation,-50
+64,2023-02-01,Auto & Transport:Taxi & Uber,-100
+65,2023-02-01,Bills & Utilities:Internet,-50
+66,2023-02-01,Bills & Utilities:Mobile Phone,-100
+67,2023-02-01,Bills & Utilities:Utilities,-250
+68,2023-02-01,Cash & ATM,-100
+69,2023-02-01,Child Savings Account 1,-50
+70,2023-02-01,Child Savings Account 2,-50
+71,2023-02-01,Entertainment,-80
+72,2023-02-01,Fees & Charges,0
+73,2023-02-01,Financial:Life Insurance,0
+74,2023-02-01,Food & Dining:Bars & Restaurants,-450
+75,2023-02-01,Food & Dining:Coffee Shops,-150
+76,2023-02-01,Food & Dining:Delivery,-250
+77,2023-02-01,Food & Dining:Groceries,-2000
+78,2023-02-01,Food & Dining:Lunch,-75
+79,2023-02-01,Gifts & Donations:Charity,0
+80,2023-02-01,Gifts & Donations:Gift,-200
+81,2023-02-01,Health & Fitness:Child 1,-200
+82,2023-02-01,Health & Fitness:Child 2,-200
+83,2023-02-01,Health & Fitness:Child 3,-300
+84,2023-02-01,Health & Fitness:Dentist,0
+85,2023-02-01,Health & Fitness:Doctor,0
+86,2023-02-01,Health & Fitness:Eyecare,0
+87,2023-02-01,Health & Fitness:Gym,0
+88,2023-02-01,Health & Fitness:Health Insurance,0
+89,2023-02-01,Health & Fitness:Pharmacy,-50
+90,2023-02-01,Home:Cleaning,0
+91,2023-02-01,Home:Furnishings,-50
+92,2023-02-01,Home:Home Supplies,-60
+93,2023-02-01,Home:Rent,-6000
+94,2023-02-01,Kids:Baby Supplies,-100
+95,2023-02-01,Kids:Babysitter & Daycare,-3700
+96,2023-02-01,Kids:Clothing,-20
+97,2023-02-01,Kids:Diapers,-100
+98,2023-02-01,Kids:Kids Activities,-50
+99,2023-02-01,Kids:Toys,-10
+100,2023-02-01,Kids:Wipes,-30
+101,2023-02-01,Memberships,-3
+102,2023-02-01,Net Salary:Bonus,0
+103,2023-02-01,Net Salary:Salary,15000
+104,2023-02-01,Net Salary:Salary Spouse,15000
+105,2023-02-01,Other,0
+106,2023-02-01,Personal Care,-100
+107,2023-02-01,Shopping:Clothing,-150
+108,2023-02-01,Shopping:Electronics & Software,-20
+109,2023-02-01,Tax:Singapore,-4000
+110,2023-02-01,Travel:Air Travel,0
+111,2023-02-01,Travel:Cash,0
+112,2023-02-01,Travel:Entertainment,0
+113,2023-02-01,Travel:Grocery,0
+114,2023-02-01,Travel:Hotel,0
+115,2023-02-01,Travel:Rental Car & Taxi,0
+116,2023-02-01,Travel:Restaurant,0
+117,2023-02-01,Travel:US Flights,0
+118,2023-02-01,Travel:Visa,-287
+119,2023-03-01,401K,-3000
+120,2023-03-01,Auto & Transport:Auto Payment,-500
+121,2023-03-01,Auto & Transport:Gas & Fuel,-100
+122,2023-03-01,Auto & Transport:Parking,-50
+123,2023-03-01,Auto & Transport:Public Transportation,-50
+124,2023-03-01,Auto & Transport:Taxi & Uber,-100
+125,2023-03-01,Bills & Utilities:Internet,-50
+126,2023-03-01,Bills & Utilities:Mobile Phone,-100
+127,2023-03-01,Bills & Utilities:Utilities,-250
+128,2023-03-01,Cash & ATM,-100
+129,2023-03-01,Child Savings Account 1,-50
+130,2023-03-01,Child Savings Account 2,-50
+131,2023-03-01,Entertainment,-80
+132,2023-03-01,Fees & Charges,0
+133,2023-03-01,Financial:Life Insurance,0
+134,2023-03-01,Food & Dining:Bars & Restaurants,-450
+135,2023-03-01,Food & Dining:Coffee Shops,-150
+136,2023-03-01,Food & Dining:Delivery,-250
+137,2023-03-01,Food & Dining:Groceries,-2000
+138,2023-03-01,Food & Dining:Lunch,-75
+139,2023-03-01,Gifts & Donations:Charity,0
+140,2023-03-01,Gifts & Donations:Gift,-200
+141,2023-03-01,Health & Fitness:Child 1,-200
+142,2023-03-01,Health & Fitness:Child 2,-200
+143,2023-03-01,Health & Fitness:Child 3,-300
+144,2023-03-01,Health & Fitness:Dentist,0
+145,2023-03-01,Health & Fitness:Doctor,0
+146,2023-03-01,Health & Fitness:Eyecare,0
+147,2023-03-01,Health & Fitness:Gym,0
+148,2023-03-01,Health & Fitness:Health Insurance,0
+149,2023-03-01,Health & Fitness:Pharmacy,-50
+150,2023-03-01,Home:Cleaning,0
+151,2023-03-01,Home:Furnishings,-50
+152,2023-03-01,Home:Home Supplies,-60
+153,2023-03-01,Home:Rent,-6000
+154,2023-03-01,Kids:Baby Supplies,-100
+155,2023-03-01,Kids:Babysitter & Daycare,-3700
+156,2023-03-01,Kids:Clothing,-20
+157,2023-03-01,Kids:Diapers,-80
+158,2023-03-01,Kids:Kids Activities,-50
+159,2023-03-01,Kids:Toys,-10
+160,2023-03-01,Kids:Wipes,-30
+161,2023-03-01,Memberships,-3
+162,2023-03-01,Net Salary:Bonus,0
+163,2023-03-01,Net Salary:Salary,15000
+164,2023-03-01,Net Salary:Salary Spouse,15000
+165,2023-03-01,Other,0
+166,2023-03-01,Personal Care,-100
+167,2023-03-01,Shopping:Clothing,-150
+168,2023-03-01,Shopping:Electronics & Software,-20
+169,2023-03-01,Tax:Singapore,-4000
+170,2023-03-01,Travel:Air Travel,-4000
+171,2023-03-01,Travel:Cash,0
+172,2023-03-01,Travel:Entertainment,0
+173,2023-03-01,Travel:Grocery,0
+174,2023-03-01,Travel:Hotel,-5000
+175,2023-03-01,Travel:Rental Car & Taxi,0
+176,2023-03-01,Travel:Restaurant,0
+177,2023-03-01,Travel:US Flights,-3500
+178,2023-04-01,401K,-3000
+179,2023-04-01,Auto & Transport:Auto Payment,-500
+180,2023-04-01,Auto & Transport:Gas & Fuel,-100
+181,2023-04-01,Auto & Transport:Parking,-50
+182,2023-04-01,Auto & Transport:Public Transportation,-50
+183,2023-04-01,Auto & Transport:Taxi & Uber,-100
+184,2023-04-01,Bills & Utilities:Internet,-50
+185,2023-04-01,Bills & Utilities:Mobile Phone,-100
+186,2023-04-01,Bills & Utilities:Utilities,-250
+187,2023-04-01,Cash & ATM,-100
+188,2023-04-01,Child Savings Account 1,-50
+189,2023-04-01,Child Savings Account 2,-50
+190,2023-04-01,Entertainment,-80
+191,2023-04-01,Fees & Charges,0
+192,2023-04-01,Financial:Life Insurance,0
+193,2023-04-01,Food & Dining:Bars & Restaurants,-450
+194,2023-04-01,Food & Dining:Coffee Shops,-150
+195,2023-04-01,Food & Dining:Delivery,-250
+196,2023-04-01,Food & Dining:Groceries,-2000
+197,2023-04-01,Food & Dining:Lunch,-75
+198,2023-04-01,Gifts & Donations:Charity,0
+199,2023-04-01,Gifts & Donations:Gift,-200
+200,2023-04-01,Health & Fitness:Child 1,-200
+201,2023-04-01,Health & Fitness:Child 2,-200
+202,2023-04-01,Health & Fitness:Child 3,-300
+203,2023-04-01,Health & Fitness:Dentist,0
+204,2023-04-01,Health & Fitness:Doctor,0
+205,2023-04-01,Health & Fitness:Eyecare,0
+206,2023-04-01,Health & Fitness:Gym,0
+207,2023-04-01,Health & Fitness:Health Insurance,0
+208,2023-04-01,Health & Fitness:Pharmacy,-50
+209,2023-04-01,Home:Cleaning,0
+210,2023-04-01,Home:Furnishings,-50
+211,2023-04-01,Home:Home Supplies,-60
+212,2023-04-01,Home:Rent,-6000
+213,2023-04-01,Kids:Baby Supplies,-100
+214,2023-04-01,Kids:Babysitter & Daycare,-4150
+215,2023-04-01,Kids:Clothing,-20
+216,2023-04-01,Kids:Diapers,-80
+217,2023-04-01,Kids:Kids Activities,-50
+218,2023-04-01,Kids:Toys,-10
+219,2023-04-01,Kids:Wipes,-30
+220,2023-04-01,Memberships,-3
+221,2023-04-01,Net Salary:Bonus,20000
+222,2023-04-01,Net Salary:Salary,15000
+223,2023-04-01,Net Salary:Salary Spouse,15000
+224,2023-04-01,Other,0
+225,2023-04-01,Personal Care,-100
+226,2023-04-01,Shopping:Clothing,-150
+227,2023-04-01,Shopping:Electronics & Software,-20
+228,2023-04-01,Tax:Fed,-400
+229,2023-04-01,Tax:Singapore,-4000
+230,2023-04-01,Travel:Air Travel,0
+231,2023-04-01,Travel:Cash,0
+232,2023-04-01,Travel:Entertainment,0
+233,2023-04-01,Travel:Grocery,0
+234,2023-04-01,Travel:Hotel,0
+235,2023-04-01,Travel:Rental Car & Taxi,0
+236,2023-04-01,Travel:Restaurant,0
+237,2023-04-01,Travel:US Flights,0
+238,2023-05-01,401K,-3000
+239,2023-05-01,Auto & Transport:Auto Payment,-500
+240,2023-05-01,Auto & Transport:Gas & Fuel,-100
+241,2023-05-01,Auto & Transport:Parking,-50
+242,2023-05-01,Auto & Transport:Public Transportation,-50
+243,2023-05-01,Auto & Transport:Taxi & Uber,-100
+244,2023-05-01,Bills & Utilities:Internet,-50
+245,2023-05-01,Bills & Utilities:Mobile Phone,-100
+246,2023-05-01,Bills & Utilities:Utilities,-250
+247,2023-05-01,Cash & ATM,-100
+248,2023-05-01,Child Savings Account 1,-50
+249,2023-05-01,Child Savings Account 2,-50
+250,2023-05-01,Entertainment,-80
+251,2023-05-01,Fees & Charges,0
+252,2023-05-01,Financial:Life Insurance,0
+253,2023-05-01,Food & Dining:Bars & Restaurants,-450
+254,2023-05-01,Food & Dining:Coffee Shops,-150
+255,2023-05-01,Food & Dining:Delivery,-250
+256,2023-05-01,Food & Dining:Groceries,-2000
+257,2023-05-01,Food & Dining:Lunch,-75
+258,2023-05-01,Gifts & Donations:Charity,0
+259,2023-05-01,Gifts & Donations:Gift,-200
+260,2023-05-01,Health & Fitness:Child 1,-200
+261,2023-05-01,Health & Fitness:Child 2,-200
+262,2023-05-01,Health & Fitness:Child 3,-300
+263,2023-05-01,Health & Fitness:Dentist,0
+264,2023-05-01,Health & Fitness:Doctor,0
+265,2023-05-01,Health & Fitness:Eyecare,0
+266,2023-05-01,Health & Fitness:Gym,0
+267,2023-05-01,Health & Fitness:Health Insurance,0
+268,2023-05-01,Health & Fitness:Pharmacy,-50
+269,2023-05-01,Home:Cleaning,0
+270,2023-05-01,Home:Furnishings,-50
+271,2023-05-01,Home:Home Supplies,-60
+272,2023-05-01,Home:Rent,-6000
+273,2023-05-01,Kids:Baby Supplies,-100
+274,2023-05-01,Kids:Babysitter & Daycare,-4150
+275,2023-05-01,Kids:Clothing,-20
+276,2023-05-01,Kids:Diapers,-80
+277,2023-05-01,Kids:Kids Activities,-50
+278,2023-05-01,Kids:Toys,-10
+279,2023-05-01,Kids:Wipes,-30
+280,2023-05-01,Memberships,-3
+281,2023-05-01,Net Salary:Bonus,0
+282,2023-05-01,Net Salary:Salary,15000
+283,2023-05-01,Net Salary:Salary Spouse,15000
+284,2023-05-01,Other,0
+285,2023-05-01,Personal Care,-100
+286,2023-05-01,Shopping:Clothing,-150
+287,2023-05-01,Shopping:Electronics & Software,-20
+288,2023-05-01,Tax:Singapore,-4000
+289,2023-05-01,Travel:Air Travel,0
+290,2023-05-01,Travel:Cash,0
+291,2023-05-01,Travel:Entertainment,0
+292,2023-05-01,Travel:Grocery,0
+293,2023-05-01,Travel:Hotel,0
+294,2023-05-01,Travel:Rental Car & Taxi,0
+295,2023-05-01,Travel:Restaurant,0
+296,2023-05-01,Travel:US Flights,0
+297,2023-06-01,401K,-3000
+298,2023-06-01,Auto & Transport:Auto Payment,-500
+299,2023-06-01,Auto & Transport:Gas & Fuel,-100
+300,2023-06-01,Auto & Transport:Parking,-50
+301,2023-06-01,Auto & Transport:Public Transportation,-50
+302,2023-06-01,Auto & Transport:Taxi & Uber,-100
+303,2023-06-01,Bills & Utilities:Internet,-50
+304,2023-06-01,Bills & Utilities:Mobile Phone,-100
+305,2023-06-01,Bills & Utilities:Utilities,-250
+306,2023-06-01,Cash & ATM,-100
+307,2023-06-01,Child Savings Account 1,-50
+308,2023-06-01,Child Savings Account 2,-50
+309,2023-06-01,Entertainment,-80
+310,2023-06-01,Fees & Charges,0
+311,2023-06-01,Financial:Life Insurance,0
+312,2023-06-01,Food & Dining:Bars & Restaurants,-450
+313,2023-06-01,Food & Dining:Coffee Shops,-150
+314,2023-06-01,Food & Dining:Delivery,-250
+315,2023-06-01,Food & Dining:Groceries,-2000
+316,2023-06-01,Food & Dining:Lunch,-75
+317,2023-06-01,Gifts & Donations:Charity,0
+318,2023-06-01,Gifts & Donations:Gift,-200
+319,2023-06-01,Health & Fitness:Child 1,-200
+320,2023-06-01,Health & Fitness:Child 2,-200
+321,2023-06-01,Health & Fitness:Child 3,-300
+322,2023-06-01,Health & Fitness:Dentist,0
+323,2023-06-01,Health & Fitness:Doctor,0
+324,2023-06-01,Health & Fitness:Eyecare,0
+325,2023-06-01,Health & Fitness:Gym,0
+326,2023-06-01,Health & Fitness:Health Insurance,0
+327,2023-06-01,Health & Fitness:Pharmacy,-50
+328,2023-06-01,Home:Cleaning,0
+329,2023-06-01,Home:Furnishings,-50
+330,2023-06-01,Home:Home Supplies,-60
+331,2023-06-01,Home:Rent,-6000
+332,2023-06-01,Kids:Baby Supplies,-100
+333,2023-06-01,Kids:Babysitter & Daycare,-4150
+334,2023-06-01,Kids:Clothing,-20
+335,2023-06-01,Kids:Diapers,-80
+336,2023-06-01,Kids:Kids Activities,-50
+337,2023-06-01,Kids:Toys,-10
+338,2023-06-01,Kids:Wipes,-30
+339,2023-06-01,Memberships,-3
+340,2023-06-01,Net Salary:Bonus,0
+341,2023-06-01,Net Salary:Salary,15000
+342,2023-06-01,Net Salary:Salary Spouse,15000
+343,2023-06-01,Other,0
+344,2023-06-01,Personal Care,-100
+345,2023-06-01,Shopping:Clothing,-150
+346,2023-06-01,Shopping:Electronics & Software,-20
+347,2023-06-01,Tax:Singapore,-4000
+348,2023-06-01,Travel:Air Travel,0
+349,2023-06-01,Travel:Cash,0
+350,2023-06-01,Travel:Entertainment,0
+351,2023-06-01,Travel:Grocery,0
+352,2023-06-01,Travel:Hotel,0
+353,2023-06-01,Travel:Rental Car & Taxi,0
+354,2023-06-01,Travel:Restaurant,0
+355,2023-06-01,Travel:US Flights,0
+356,2023-07-01,401K,-3000
+357,2023-07-01,Auto & Transport:Auto Payment,-500
+358,2023-07-01,Auto & Transport:Gas & Fuel,-100
+359,2023-07-01,Auto & Transport:Parking,-50
+360,2023-07-01,Auto & Transport:Public Transportation,-50
+361,2023-07-01,Auto & Transport:Taxi & Uber,-100
+362,2023-07-01,Bills & Utilities:Internet,-50
+363,2023-07-01,Bills & Utilities:Mobile Phone,-100
+364,2023-07-01,Bills & Utilities:Utilities,-250
+365,2023-07-01,Cash & ATM,-100
+366,2023-07-01,Child Savings Account 1,-50
+367,2023-07-01,Child Savings Account 2,-50
+368,2023-07-01,Entertainment,-80
+369,2023-07-01,Fees & Charges,0
+370,2023-07-01,Financial:Life Insurance,0
+371,2023-07-01,Food & Dining:Bars & Restaurants,-450
+372,2023-07-01,Food & Dining:Coffee Shops,-150
+373,2023-07-01,Food & Dining:Delivery,-250
+374,2023-07-01,Food & Dining:Groceries,-2000
+375,2023-07-01,Food & Dining:Lunch,-75
+376,2023-07-01,Gifts & Donations:Charity,0
+377,2023-07-01,Gifts & Donations:Gift,-200
+378,2023-07-01,Health & Fitness:Child 1,-200
+379,2023-07-01,Health & Fitness:Child 2,-200
+380,2023-07-01,Health & Fitness:Child 3,-300
+381,2023-07-01,Health & Fitness:Dentist,-60
+382,2023-07-01,Health & Fitness:Doctor,0
+383,2023-07-01,Health & Fitness:Eyecare,0
+384,2023-07-01,Health & Fitness:Gym,0
+385,2023-07-01,Health & Fitness:Health Insurance,0
+386,2023-07-01,Health & Fitness:Pharmacy,-50
+387,2023-07-01,Home:Cleaning,0
+388,2023-07-01,Home:Furnishings,-50
+389,2023-07-01,Home:Home Supplies,-60
+390,2023-07-01,Home:Rent,-6000
+391,2023-07-01,Kids:Baby Supplies,-100
+392,2023-07-01,Kids:Babysitter & Daycare,-4150
+393,2023-07-01,Kids:Clothing,-20
+394,2023-07-01,Kids:Diapers,-80
+395,2023-07-01,Kids:Kids Activities,-50
+396,2023-07-01,Kids:Toys,-10
+397,2023-07-01,Kids:Wipes,-30
+398,2023-07-01,Memberships,-3
+399,2023-07-01,Net Salary:Bonus,0
+400,2023-07-01,Net Salary:Salary,15000
+401,2023-07-01,Net Salary:Salary Spouse,15000
+402,2023-07-01,Other,0
+403,2023-07-01,Personal Care,-100
+404,2023-07-01,Shopping:Clothing,-150
+405,2023-07-01,Shopping:Electronics & Software,-20
+406,2023-07-01,Tax:Singapore,-4000
+407,2023-07-01,Travel:Air Travel,0
+408,2023-07-01,Travel:Cash,0
+409,2023-07-01,Travel:Entertainment,0
+410,2023-07-01,Travel:Grocery,0
+411,2023-07-01,Travel:Hotel,0
+412,2023-07-01,Travel:Rental Car & Taxi,0
+413,2023-07-01,Travel:Restaurant,0
+414,2023-07-01,Travel:US Flights,0
+415,2023-08-01,401K,-3000
+416,2023-08-01,Auto & Transport:Auto Payment,-500
+417,2023-08-01,Auto & Transport:Gas & Fuel,-100
+418,2023-08-01,Auto & Transport:Parking,-50
+419,2023-08-01,Auto & Transport:Public Transportation,-50
+420,2023-08-01,Auto & Transport:Taxi & Uber,-100
+421,2023-08-01,Bills & Utilities:Internet,-50
+422,2023-08-01,Bills & Utilities:Mobile Phone,-100
+423,2023-08-01,Bills & Utilities:Utilities,-250
+424,2023-08-01,Cash & ATM,-100
+425,2023-08-01,Child Savings Account 1,-50
+426,2023-08-01,Child Savings Account 2,-50
+427,2023-08-01,Entertainment,-80
+428,2023-08-01,Fees & Charges,0
+429,2023-08-01,Financial:Life Insurance,0
+430,2023-08-01,Food & Dining:Bars & Restaurants,-450
+431,2023-08-01,Food & Dining:Coffee Shops,-150
+432,2023-08-01,Food & Dining:Delivery,-250
+433,2023-08-01,Food & Dining:Groceries,-2000
+434,2023-08-01,Food & Dining:Lunch,-75
+435,2023-08-01,Gifts & Donations:Charity,0
+436,2023-08-01,Gifts & Donations:Gift,-200
+437,2023-08-01,Health & Fitness:Child 1,-200
+438,2023-08-01,Health & Fitness:Child 2,-200
+439,2023-08-01,Health & Fitness:Child 3,-300
+440,2023-08-01,Health & Fitness:Dentist,0
+441,2023-08-01,Health & Fitness:Doctor,0
+442,2023-08-01,Health & Fitness:Eyecare,0
+443,2023-08-01,Health & Fitness:Gym,0
+444,2023-08-01,Health & Fitness:Health Insurance,0
+445,2023-08-01,Health & Fitness:Pharmacy,-50
+446,2023-08-01,Home:Cleaning,0
+447,2023-08-01,Home:Furnishings,-50
+448,2023-08-01,Home:Home Supplies,-60
+449,2023-08-01,Home:Rent,-6000
+450,2023-08-01,Kids:Baby Supplies,-100
+451,2023-08-01,Kids:Babysitter & Daycare,-4150
+452,2023-08-01,Kids:Clothing,-20
+453,2023-08-01,Kids:Diapers,-80
+454,2023-08-01,Kids:Kids Activities,-50
+455,2023-08-01,Kids:Toys,-10
+456,2023-08-01,Kids:Wipes,-30
+457,2023-08-01,Memberships,-3
+458,2023-08-01,Net Salary:Bonus,0
+459,2023-08-01,Net Salary:Salary,15000
+460,2023-08-01,Net Salary:Salary Spouse,15000
+461,2023-08-01,Other,0
+462,2023-08-01,Personal Care,-100
+463,2023-08-01,Shopping:Clothing,-150
+464,2023-08-01,Shopping:Electronics & Software,-20
+465,2023-08-01,Tax:Singapore,-4000
+466,2023-08-01,Travel:Air Travel,0
+467,2023-08-01,Travel:Cash,0
+468,2023-08-01,Travel:Entertainment,0
+469,2023-08-01,Travel:Grocery,0
+470,2023-08-01,Travel:Hotel,0
+471,2023-08-01,Travel:Rental Car & Taxi,0
+472,2023-08-01,Travel:Restaurant,0
+473,2023-08-01,Travel:US Flights,0
+474,2023-09-01,401K,-3000
+475,2023-09-01,Auto & Transport:Auto Payment,-500
+476,2023-09-01,Auto & Transport:Gas & Fuel,-100
+477,2023-09-01,Auto & Transport:Parking,-50
+478,2023-09-01,Auto & Transport:Public Transportation,-50
+479,2023-09-01,Auto & Transport:Taxi & Uber,-100
+480,2023-09-01,Bills & Utilities:Internet,-50
+481,2023-09-01,Bills & Utilities:Mobile Phone,-100
+482,2023-09-01,Bills & Utilities:Utilities,-250
+483,2023-09-01,Cash & ATM,-100
+484,2023-09-01,Child Savings Account 1,-50
+485,2023-09-01,Child Savings Account 2,-50
+486,2023-09-01,Entertainment,-80
+487,2023-09-01,Fees & Charges,0
+488,2023-09-01,Financial:Life Insurance,0
+489,2023-09-01,Food & Dining:Bars & Restaurants,-450
+490,2023-09-01,Food & Dining:Coffee Shops,-150
+491,2023-09-01,Food & Dining:Delivery,-250
+492,2023-09-01,Food & Dining:Groceries,-2000
+493,2023-09-01,Food & Dining:Lunch,-75
+494,2023-09-01,Gifts & Donations:Charity,0
+495,2023-09-01,Gifts & Donations:Gift,-200
+496,2023-09-01,Health & Fitness:Child 1,-200
+497,2023-09-01,Health & Fitness:Child 2,-200
+498,2023-09-01,Health & Fitness:Child 3,-300
+499,2023-09-01,Health & Fitness:Dentist,0
+500,2023-09-01,Health & Fitness:Doctor,0
+501,2023-09-01,Health & Fitness:Eyecare,0
+502,2023-09-01,Health & Fitness:Gym,0
+503,2023-09-01,Health & Fitness:Health Insurance,0
+504,2023-09-01,Health & Fitness:Pharmacy,-50
+505,2023-09-01,Home:Cleaning,0
+506,2023-09-01,Home:Furnishings,-50
+507,2023-09-01,Home:Home Supplies,-60
+508,2023-09-01,Home:Rent,-6000
+509,2023-09-01,Kids:Baby Supplies,-100
+510,2023-09-01,Kids:Babysitter & Daycare,-4150
+511,2023-09-01,Kids:Clothing,-20
+512,2023-09-01,Kids:Diapers,-80
+513,2023-09-01,Kids:Kids Activities,-50
+514,2023-09-01,Kids:Toys,-10
+515,2023-09-01,Kids:Wipes,-30
+516,2023-09-01,Memberships,-3
+517,2023-09-01,Net Salary:Bonus,0
+518,2023-09-01,Net Salary:Salary,15000
+519,2023-09-01,Net Salary:Salary Spouse,15000
+520,2023-09-01,Other,0
+521,2023-09-01,Personal Care,-100
+522,2023-09-01,Shopping:Clothing,-150
+523,2023-09-01,Shopping:Electronics & Software,-20
+524,2023-09-01,Tax:Singapore,-4000
+525,2023-09-01,Travel:Air Travel,-350
+526,2023-09-01,Travel:Cash,0
+527,2023-09-01,Travel:Entertainment,0
+528,2023-09-01,Travel:Grocery,0
+529,2023-09-01,Travel:Hotel,0
+530,2023-09-01,Travel:Rental Car & Taxi,0
+531,2023-09-01,Travel:Restaurant,0
+532,2023-09-01,Travel:Travel Insurance,-100
+533,2023-09-01,Travel:US Flights,0
+534,2023-10-01,401K,-3000
+535,2023-10-01,Auto & Transport:Auto Payment,-500
+536,2023-10-01,Auto & Transport:Gas & Fuel,-100
+537,2023-10-01,Auto & Transport:Parking,-50
+538,2023-10-01,Auto & Transport:Public Transportation,-50
+539,2023-10-01,Auto & Transport:Taxi & Uber,-100
+540,2023-10-01,Bills & Utilities:Internet,-50
+541,2023-10-01,Bills & Utilities:Mobile Phone,-100
+542,2023-10-01,Bills & Utilities:Utilities,-250
+543,2023-10-01,Cash & ATM,-100
+544,2023-10-01,Child Savings Account 1,-50
+545,2023-10-01,Child Savings Account 2,-50
+546,2023-10-01,Entertainment,-80
+547,2023-10-01,Fees & Charges,0
+548,2023-10-01,Financial:Life Insurance,0
+549,2023-10-01,Food & Dining:Bars & Restaurants,-450
+550,2023-10-01,Food & Dining:Coffee Shops,-150
+551,2023-10-01,Food & Dining:Delivery,-250
+552,2023-10-01,Food & Dining:Groceries,-2000
+553,2023-10-01,Food & Dining:Lunch,-75
+554,2023-10-01,Gifts & Donations:Charity,0
+555,2023-10-01,Gifts & Donations:Gift,-200
+556,2023-10-01,Health & Fitness:Child 1,-200
+557,2023-10-01,Health & Fitness:Child 2,-200
+558,2023-10-01,Health & Fitness:Child 3,-300
+559,2023-10-01,Health & Fitness:Dentist,0
+560,2023-10-01,Health & Fitness:Doctor,0
+561,2023-10-01,Health & Fitness:Eyecare,0
+562,2023-10-01,Health & Fitness:Gym,0
+563,2023-10-01,Health & Fitness:Health Insurance,0
+564,2023-10-01,Health & Fitness:Pharmacy,-50
+565,2023-10-01,Home:Cleaning,0
+566,2023-10-01,Home:Furnishings,-50
+567,2023-10-01,Home:Home Supplies,-60
+568,2023-10-01,Home:Rent,-6000
+569,2023-10-01,Kids:Baby Supplies,-100
+570,2023-10-01,Kids:Babysitter & Daycare,-4150
+571,2023-10-01,Kids:Clothing,-20
+572,2023-10-01,Kids:Diapers,-80
+573,2023-10-01,Kids:Kids Activities,-50
+574,2023-10-01,Kids:Toys,-10
+575,2023-10-01,Kids:Wipes,-30
+576,2023-10-01,Memberships,-3
+577,2023-10-01,Net Salary:Bonus,0
+578,2023-10-01,Net Salary:Salary,15000
+579,2023-10-01,Net Salary:Salary Spouse,15000
+580,2023-10-01,Other,0
+581,2023-10-01,Personal Care,-100
+582,2023-10-01,Shopping:Clothing,-150
+583,2023-10-01,Shopping:Electronics & Software,-20
+584,2023-10-01,Tax:Singapore,-4000
+585,2023-10-01,Travel:Air Travel,0
+586,2023-10-01,Travel:Cash,0
+587,2023-10-01,Travel:Entertainment,0
+588,2023-10-01,Travel:Grocery,0
+589,2023-10-01,Travel:Hotel,0
+590,2023-10-01,Travel:Rental Car & Taxi,-500
+591,2023-10-01,Travel:Restaurant,0
+592,2023-10-01,Travel:US Flights,-5000
+593,2023-11-01,401K,-3000
+594,2023-11-01,Auto & Transport:Auto Payment,-500
+595,2023-11-01,Auto & Transport:Gas & Fuel,-100
+596,2023-11-01,Auto & Transport:Parking,-50
+597,2023-11-01,Auto & Transport:Public Transportation,-50
+598,2023-11-01,Auto & Transport:Taxi & Uber,-100
+599,2023-11-01,Bills & Utilities:Internet,-50
+600,2023-11-01,Bills & Utilities:Mobile Phone,-100
+601,2023-11-01,Bills & Utilities:Utilities,-250
+602,2023-11-01,Cash & ATM,-100
+603,2023-11-01,Child Savings Account 1,-50
+604,2023-11-01,Child Savings Account 2,-50
+605,2023-11-01,Entertainment,-80
+606,2023-11-01,Fees & Charges,0
+607,2023-11-01,Financial:Life Insurance,-1000
+608,2023-11-01,Food & Dining:Bars & Restaurants,-450
+609,2023-11-01,Food & Dining:Coffee Shops,-150
+610,2023-11-01,Food & Dining:Delivery,-250
+611,2023-11-01,Food & Dining:Groceries,-2000
+612,2023-11-01,Food & Dining:Lunch,-75
+613,2023-11-01,Gifts & Donations:Charity,0
+614,2023-11-01,Gifts & Donations:Gift,-200
+615,2023-11-01,Health & Fitness:Child 1,-200
+616,2023-11-01,Health & Fitness:Child 2,-200
+617,2023-11-01,Health & Fitness:Child 3,-300
+618,2023-11-01,Health & Fitness:Dentist,0
+619,2023-11-01,Health & Fitness:Doctor,0
+620,2023-11-01,Health & Fitness:Eyecare,0
+621,2023-11-01,Health & Fitness:Gym,0
+622,2023-11-01,Health & Fitness:Health Insurance,0
+623,2023-11-01,Health & Fitness:Pharmacy,-50
+624,2023-11-01,Home:Cleaning,0
+625,2023-11-01,Home:Furnishings,-50
+626,2023-11-01,Home:Home Supplies,-60
+627,2023-11-01,Home:Rent,-7000
+628,2023-11-01,Kids:Baby Supplies,-100
+629,2023-11-01,Kids:Babysitter & Daycare,-4150
+630,2023-11-01,Kids:Clothing,-20
+631,2023-11-01,Kids:Diapers,-80
+632,2023-11-01,Kids:Kids Activities,-50
+633,2023-11-01,Kids:Toys,-10
+634,2023-11-01,Kids:Wipes,-30
+635,2023-11-01,Memberships,-3
+636,2023-11-01,Net Salary:Bonus,0
+637,2023-11-01,Net Salary:Salary,15000
+638,2023-11-01,Net Salary:Salary Spouse,15000
+639,2023-11-01,Other,0
+640,2023-11-01,Personal Care,-100
+641,2023-11-01,Shopping:Clothing,-150
+642,2023-11-01,Shopping:Electronics & Software,-20
+643,2023-11-01,Tax:Singapore,-4000
+644,2023-11-01,Travel:Air Travel,0
+645,2023-11-01,Travel:Cash,0
+646,2023-11-01,Travel:Entertainment,0
+647,2023-11-01,Travel:Grocery,0
+648,2023-11-01,Travel:Hotel,0
+649,2023-11-01,Travel:Rental Car & Taxi,0
+650,2023-11-01,Travel:Restaurant,0
+651,2023-11-01,Travel:US Flights,0
+652,2023-12-01,401K,-3000
+653,2023-12-01,Auto & Transport:Auto Payment,-500
+654,2023-12-01,Auto & Transport:Gas & Fuel,-100
+655,2023-12-01,Auto & Transport:Parking,-50
+656,2023-12-01,Auto & Transport:Public Transportation,-50
+657,2023-12-01,Auto & Transport:Taxi & Uber,-100
+658,2023-12-01,Bills & Utilities:Internet,-50
+659,2023-12-01,Bills & Utilities:Mobile Phone,-100
+660,2023-12-01,Bills & Utilities:Utilities,-250
+661,2023-12-01,Cash & ATM,-100
+662,2023-12-01,Child Savings Account 1,-50
+663,2023-12-01,Child Savings Account 2,-50
+664,2023-12-01,Entertainment,-80
+665,2023-12-01,Fees & Charges:Credit Card - Fee,-500
+666,2023-12-01,Financial:Life Insurance,0
+667,2023-12-01,Food & Dining:Bars & Restaurants,-450
+668,2023-12-01,Food & Dining:Coffee Shops,-150
+669,2023-12-01,Food & Dining:Delivery,-250
+670,2023-12-01,Food & Dining:Groceries,-2000
+671,2023-12-01,Food & Dining:Lunch,-75
+672,2023-12-01,Gifts & Donations:Charity,-500
+673,2023-12-01,Gifts & Donations:Gift,-200
+674,2023-12-01,Health & Fitness:Child 1,-200
+675,2023-12-01,Health & Fitness:Child 2,-200
+676,2023-12-01,Health & Fitness:Child 3,-300
+677,2023-12-01,Health & Fitness:Dentist,0
+678,2023-12-01,Health & Fitness:Doctor,0
+679,2023-12-01,Health & Fitness:Eyecare,0
+680,2023-12-01,Health & Fitness:Gym,0
+681,2023-12-01,Health & Fitness:Health Insurance,0
+682,2023-12-01,Health & Fitness:Pharmacy,-50
+683,2023-12-01,Home:Cleaning,0
+684,2023-12-01,Home:Furnishings,-50
+685,2023-12-01,Home:Home Supplies,-60
+686,2023-12-01,Home:Rent,-7000
+687,2023-12-01,Kids:Baby Supplies,-100
+688,2023-12-01,Kids:Babysitter & Daycare,-4150
+689,2023-12-01,Kids:Clothing,-20
+690,2023-12-01,Kids:Diapers,-80
+691,2023-12-01,Kids:Kids Activities,-50
+692,2023-12-01,Kids:Toys,-10
+693,2023-12-01,Kids:Wipes,-30
+694,2023-12-01,Memberships,-3
+695,2023-12-01,Net Salary:Bonus,0
+696,2023-12-01,Net Salary:Salary,15000
+697,2023-12-01,Net Salary:Salary Spouse,15000
+698,2023-12-01,Other,0
+699,2023-12-01,Personal Care,-100
+700,2023-12-01,Shopping:Clothing,-150
+701,2023-12-01,Shopping:Electronics & Software,-20
+702,2023-12-01,Tax:Singapore,-4000
+703,2023-12-01,Travel:Air Travel,-1200
+704,2023-12-01,Travel:Cash,0
+705,2023-12-01,Travel:Entertainment,0
+706,2023-12-01,Travel:Grocery,0
+707,2023-12-01,Travel:Hotel,-3500
+708,2023-12-01,Travel:Rental Car & Taxi,0
+709,2023-12-01,Travel:Restaurant,0
+710,2023-12-01,Travel:US Flights,0
+711,2024-01-01,401K,-3000
+712,2024-01-01,Auto & Transport:Auto Payment,-500
+713,2024-01-01,Auto & Transport:Gas & Fuel,-100
+714,2024-01-01,Auto & Transport:Parking,-50
+715,2024-01-01,Auto & Transport:Public Transportation,-50
+716,2024-01-01,Auto & Transport:Taxi & Uber,-100
+717,2024-01-01,Bills & Utilities:Internet,-50
+718,2024-01-01,Bills & Utilities:Mobile Phone,-100
+719,2024-01-01,Bills & Utilities:Utilities,-250
+720,2024-01-01,Cash & ATM,-100
+721,2024-01-01,Child Savings Account 1,-50
+722,2024-01-01,Child Savings Account 2,-50
+723,2024-01-01,Education,-200
+724,2024-01-01,Entertainment,-80
+725,2024-01-01,Fees & Charges,0
+726,2024-01-01,Financial:Life Insurance,-1000
+727,2024-01-01,Food & Dining:Bars & Restaurants,-450
+728,2024-01-01,Food & Dining:Coffee Shops,-150
+729,2024-01-01,Food & Dining:Delivery,-250
+730,2024-01-01,Food & Dining:Groceries,-2000
+731,2024-01-01,Food & Dining:Lunch,-75
+732,2024-01-01,Gifts & Donations:Charity,0
+733,2024-01-01,Gifts & Donations:Gift,-200
+734,2024-01-01,Health & Fitness:Child 1,-200
+735,2024-01-01,Health & Fitness:Child 2,-200
+736,2024-01-01,Health & Fitness:Child 3,-200
+737,2024-01-01,Health & Fitness:Dentist,-60
+738,2024-01-01,Health & Fitness:Doctor,-300
+739,2024-01-01,Health & Fitness:Eyecare,-50
+740,2024-01-01,Health & Fitness:Gym,0
+741,2024-01-01,Health & Fitness:Health Insurance,0
+742,2024-01-01,Health & Fitness:Pharmacy,-50
+743,2024-01-01,Home:Cleaning,-500
+744,2024-01-01,Home:Furnishings,-50
+745,2024-01-01,Home:Home Supplies,-60
+746,2024-01-01,Home:Rent,-7000
+747,2024-01-01,Kids:Baby Supplies,-100
+748,2024-01-01,Kids:Babysitter & Daycare,-4600
+749,2024-01-01,Kids:Clothing,-20
+750,2024-01-01,Kids:Diapers,-80
+751,2024-01-01,Kids:Kids Activities,-500
+752,2024-01-01,Kids:Toys,-10
+753,2024-01-01,Kids:Wipes,-30
+754,2024-01-01,Memberships,-50
+755,2024-01-01,Net Salary:Bonus,8000
+756,2024-01-01,Net Salary:Salary,16000
+757,2024-01-01,Net Salary:Salary Spouse,16000
+758,2024-01-01,Other,0
+759,2024-01-01,Personal Care,-100
+760,2024-01-01,Shopping:Clothing,-150
+761,2024-01-01,Shopping:Electronics & Software,-20
+762,2024-01-01,Tax:Singapore,-4000
+763,2024-01-01,Travel:Air Travel,0
+764,2024-01-01,Travel:Cash,0
+765,2024-01-01,Travel:Entertainment,0
+766,2024-01-01,Travel:Grocery,0
+767,2024-01-01,Travel:Hotel,-3550
+768,2024-01-01,Travel:Rental Car & Taxi,0
+769,2024-01-01,Travel:Restaurant,0
+770,2024-01-01,Travel:US Flights,-100
+771,2024-02-01,401K,-3000
+772,2024-02-01,Auto & Transport:Auto Payment,-500
+773,2024-02-01,Auto & Transport:Gas & Fuel,-100
+774,2024-02-01,Auto & Transport:Parking,-50
+775,2024-02-01,Auto & Transport:Public Transportation,-50
+776,2024-02-01,Auto & Transport:Taxi & Uber,-100
+777,2024-02-01,Bills & Utilities:Internet,-50
+778,2024-02-01,Bills & Utilities:Mobile Phone,-100
+779,2024-02-01,Bills & Utilities:Utilities,-250
+780,2024-02-01,Cash & ATM,-100
+781,2024-02-01,Child Savings Account 1,-50
+782,2024-02-01,Child Savings Account 2,-50
+783,2024-02-01,Education,-200
+784,2024-02-01,Entertainment,-80
+785,2024-02-01,Fees & Charges,0
+786,2024-02-01,Financial:Life Insurance,0
+787,2024-02-01,Food & Dining:Bars & Restaurants,-450
+788,2024-02-01,Food & Dining:Coffee Shops,-150
+789,2024-02-01,Food & Dining:Delivery,-250
+790,2024-02-01,Food & Dining:Groceries,-2000
+791,2024-02-01,Food & Dining:Lunch,-75
+792,2024-02-01,Gifts & Donations:Charity,0
+793,2024-02-01,Gifts & Donations:Gift,-200
+794,2024-02-01,Health & Fitness:Child 1,-200
+795,2024-02-01,Health & Fitness:Child 2,-200
+796,2024-02-01,Health & Fitness:Child 3,-200
+797,2024-02-01,Health & Fitness:Dentist,0
+798,2024-02-01,Health & Fitness:Doctor,0
+799,2024-02-01,Health & Fitness:Eyecare,0
+800,2024-02-01,Health & Fitness:Gym,0
+801,2024-02-01,Health & Fitness:Health Insurance,0
+802,2024-02-01,Health & Fitness:Pharmacy,-50
+803,2024-02-01,Home:Cleaning,0
+804,2024-02-01,Home:Furnishings,-50
+805,2024-02-01,Home:Home Supplies,-60
+806,2024-02-01,Home:Rent,-7000
+807,2024-02-01,Kids:Baby Supplies,-100
+808,2024-02-01,Kids:Babysitter & Daycare,-4600
+809,2024-02-01,Kids:Clothing,-20
+810,2024-02-01,Kids:Diapers,-80
+811,2024-02-01,Kids:Kids Activities,-500
+812,2024-02-01,Kids:Toys,-10
+813,2024-02-01,Kids:Wipes,-30
+814,2024-02-01,Memberships,-50
+815,2024-02-01,Net Salary:Bonus,0
+816,2024-02-01,Net Salary:Salary,16000
+817,2024-02-01,Net Salary:Salary Spouse,16000
+818,2024-02-01,Other,0
+819,2024-02-01,Personal Care,-100
+820,2024-02-01,Shopping:Clothing,-150
+821,2024-02-01,Shopping:Electronics & Software,-20
+822,2024-02-01,Tax:Singapore,-4000
+823,2024-02-01,Travel:Air Travel,0
+824,2024-02-01,Travel:Cash,0
+825,2024-02-01,Travel:Entertainment,0
+826,2024-02-01,Travel:Grocery,0
+827,2024-02-01,Travel:Hotel,0
+828,2024-02-01,Travel:Rental Car & Taxi,0
+829,2024-02-01,Travel:Restaurant,0
+830,2024-02-01,Travel:US Flights,0
+831,2024-03-01,401K,-3000
+832,2024-03-01,Auto & Transport:Auto Payment,-500
+833,2024-03-01,Auto & Transport:Gas & Fuel,-100
+834,2024-03-01,Auto & Transport:Parking,-50
+835,2024-03-01,Auto & Transport:Public Transportation,-50
+836,2024-03-01,Auto & Transport:Taxi & Uber,-100
+837,2024-03-01,Bills & Utilities:Internet,-50
+838,2024-03-01,Bills & Utilities:Mobile Phone,-100
+839,2024-03-01,Bills & Utilities:Utilities,-250
+840,2024-03-01,Cash & ATM,-100
+841,2024-03-01,Child Savings Account 1,-50
+842,2024-03-01,Child Savings Account 2,-50
+843,2024-03-01,Education,-200
+844,2024-03-01,Entertainment,-80
+845,2024-03-01,Fees & Charges,0
+846,2024-03-01,Financial:Life Insurance,0
+847,2024-03-01,Food & Dining:Bars & Restaurants,-450
+848,2024-03-01,Food & Dining:Coffee Shops,-150
+849,2024-03-01,Food & Dining:Delivery,-250
+850,2024-03-01,Food & Dining:Groceries,-2000
+851,2024-03-01,Food & Dining:Lunch,-75
+852,2024-03-01,Gifts & Donations:Charity,0
+853,2024-03-01,Gifts & Donations:Gift,-200
+854,2024-03-01,Health & Fitness:Child 1,-200
+855,2024-03-01,Health & Fitness:Child 2,-200
+856,2024-03-01,Health & Fitness:Child 3,-200
+857,2024-03-01,Health & Fitness:Dentist,0
+858,2024-03-01,Health & Fitness:Doctor,0
+859,2024-03-01,Health & Fitness:Eyecare,0
+860,2024-03-01,Health & Fitness:Gym,0
+861,2024-03-01,Health & Fitness:Health Insurance,0
+862,2024-03-01,Health & Fitness:Pharmacy,-50
+863,2024-03-01,Home:Cleaning,0
+864,2024-03-01,Home:Furnishings,-50
+865,2024-03-01,Home:Home Supplies,-60
+866,2024-03-01,Home:Rent,-7000
+867,2024-03-01,Kids:Baby Supplies,-100
+868,2024-03-01,Kids:Babysitter & Daycare,-4600
+869,2024-03-01,Kids:Clothing,-20
+870,2024-03-01,Kids:Diapers,-80
+871,2024-03-01,Kids:Kids Activities,-500
+872,2024-03-01,Kids:Toys,-10
+873,2024-03-01,Kids:Wipes,-30
+874,2024-03-01,Memberships,-50
+875,2024-03-01,Net Salary:Bonus,0
+876,2024-03-01,Net Salary:Salary,16000
+877,2024-03-01,Net Salary:Salary Spouse,16000
+878,2024-03-01,Other,0
+879,2024-03-01,Personal Care,-100
+880,2024-03-01,Shopping:Clothing,-150
+881,2024-03-01,Shopping:Electronics & Software,-20
+882,2024-03-01,Tax:Singapore,-4000
+883,2024-03-01,Travel:Air Travel,0
+884,2024-03-01,Travel:Cash,0
+885,2024-03-01,Travel:Entertainment,0
+886,2024-03-01,Travel:Grocery,0
+887,2024-03-01,Travel:Hotel,0
+888,2024-03-01,Travel:Rental Car & Taxi,0
+889,2024-03-01,Travel:Restaurant,0
+890,2024-03-01,Travel:US Flights,0
+891,2024-04-01,401K,-3000
+892,2024-04-01,Auto & Transport:Auto Payment,-500
+893,2024-04-01,Auto & Transport:Gas & Fuel,-100
+894,2024-04-01,Auto & Transport:Parking,-50
+895,2024-04-01,Auto & Transport:Public Transportation,-50
+896,2024-04-01,Auto & Transport:Taxi & Uber,-100
+897,2024-04-01,Bills & Utilities:Internet,-50
+898,2024-04-01,Bills & Utilities:Mobile Phone,-100
+899,2024-04-01,Bills & Utilities:Utilities,-250
+900,2024-04-01,Cash & ATM,-100
+901,2024-04-01,Child Savings Account 1,-50
+902,2024-04-01,Child Savings Account 2,-50
+903,2024-04-01,Education,-200
+904,2024-04-01,Entertainment,-80
+905,2024-04-01,Fees & Charges,0
+906,2024-04-01,Financial:Life Insurance,0
+907,2024-04-01,Food & Dining:Bars & Restaurants,-450
+908,2024-04-01,Food & Dining:Coffee Shops,-150
+909,2024-04-01,Food & Dining:Delivery,-250
+910,2024-04-01,Food & Dining:Groceries,-2000
+911,2024-04-01,Food & Dining:Lunch,-75
+912,2024-04-01,Gifts & Donations:Charity,0
+913,2024-04-01,Gifts & Donations:Gift,-200
+914,2024-04-01,Health & Fitness:Child 1,-200
+915,2024-04-01,Health & Fitness:Child 2,-200
+916,2024-04-01,Health & Fitness:Child 3,-200
+917,2024-04-01,Health & Fitness:Dentist,0
+918,2024-04-01,Health & Fitness:Doctor,0
+919,2024-04-01,Health & Fitness:Eyecare,0
+920,2024-04-01,Health & Fitness:Gym,0
+921,2024-04-01,Health & Fitness:Health Insurance,0
+922,2024-04-01,Health & Fitness:Pharmacy,-50
+923,2024-04-01,Home:Cleaning,0
+924,2024-04-01,Home:Furnishings,-50
+925,2024-04-01,Home:Home Supplies,-60
+926,2024-04-01,Home:Rent,-7000
+927,2024-04-01,Kids:Baby Supplies,-100
+928,2024-04-01,Kids:Babysitter & Daycare,-4600
+929,2024-04-01,Kids:Clothing,-20
+930,2024-04-01,Kids:Diapers,-80
+931,2024-04-01,Kids:Kids Activities,-500
+932,2024-04-01,Kids:Toys,-10
+933,2024-04-01,Kids:Wipes,-30
+934,2024-04-01,Memberships,-50
+935,2024-04-01,Net Salary:Bonus,20000
+936,2024-04-01,Net Salary:Salary,16000
+937,2024-04-01,Net Salary:Salary Spouse,16000
+938,2024-04-01,Other,0
+939,2024-04-01,Personal Care,-100
+940,2024-04-01,Shopping:Clothing,-150
+941,2024-04-01,Shopping:Electronics & Software,-20
+942,2024-04-01,Tax:Fed,-400
+943,2024-04-01,Tax:Singapore,-4000
+944,2024-04-01,Travel:Air Travel,-1200
+945,2024-04-01,Travel:Cash,0
+946,2024-04-01,Travel:Entertainment,0
+947,2024-04-01,Travel:Grocery,0
+948,2024-04-01,Travel:Hotel,-3000
+949,2024-04-01,Travel:Rental Car & Taxi,0
+950,2024-04-01,Travel:Restaurant,0
+951,2024-04-01,Travel:US Flights,-150
+952,2024-05-01,401K,-3000
+953,2024-05-01,Auto & Transport:Auto Payment,-500
+954,2024-05-01,Auto & Transport:Gas & Fuel,-100
+955,2024-05-01,Auto & Transport:Parking,-50
+956,2024-05-01,Auto & Transport:Public Transportation,-50
+957,2024-05-01,Auto & Transport:Taxi & Uber,-100
+958,2024-05-01,Bills & Utilities:Internet,-50
+959,2024-05-01,Bills & Utilities:Mobile Phone,-100
+960,2024-05-01,Bills & Utilities:Utilities,-250
+961,2024-05-01,Cash & ATM,-100
+962,2024-05-01,Child Savings Account 1,-50
+963,2024-05-01,Child Savings Account 2,-50
+964,2024-05-01,Education,-200
+965,2024-05-01,Entertainment,-80
+966,2024-05-01,Fees & Charges,0
+967,2024-05-01,Financial:Life Insurance,0
+968,2024-05-01,Food & Dining:Bars & Restaurants,-450
+969,2024-05-01,Food & Dining:Coffee Shops,-150
+970,2024-05-01,Food & Dining:Delivery,-250
+971,2024-05-01,Food & Dining:Groceries,-2000
+972,2024-05-01,Food & Dining:Lunch,-75
+973,2024-05-01,Gifts & Donations:Charity,0
+974,2024-05-01,Gifts & Donations:Gift,-200
+975,2024-05-01,Health & Fitness:Child 1,-200
+976,2024-05-01,Health & Fitness:Child 2,-200
+977,2024-05-01,Health & Fitness:Child 3,-200
+978,2024-05-01,Health & Fitness:Dentist,0
+979,2024-05-01,Health & Fitness:Doctor,0
+980,2024-05-01,Health & Fitness:Eyecare,0
+981,2024-05-01,Health & Fitness:Gym,0
+982,2024-05-01,Health & Fitness:Health Insurance,0
+983,2024-05-01,Health & Fitness:Pharmacy,-50
+984,2024-05-01,Home:Cleaning,0
+985,2024-05-01,Home:Furnishings,-50
+986,2024-05-01,Home:Home Supplies,-60
+987,2024-05-01,Home:Rent,-7000
+988,2024-05-01,Kids:Baby Supplies,-100
+989,2024-05-01,Kids:Babysitter & Daycare,-4600
+990,2024-05-01,Kids:Clothing,-20
+991,2024-05-01,Kids:Diapers,-80
+992,2024-05-01,Kids:Kids Activities,-700
+993,2024-05-01,Kids:Toys,-10
+994,2024-05-01,Kids:Wipes,-30
+995,2024-05-01,Memberships,-50
+996,2024-05-01,Net Salary:Bonus,0
+997,2024-05-01,Net Salary:Salary,16000
+998,2024-05-01,Net Salary:Salary Spouse,16000
+999,2024-05-01,Other,0
+1000,2024-05-01,Personal Care,-100
+1001,2024-05-01,Shopping:Clothing,-150
+1002,2024-05-01,Shopping:Electronics & Software,-20
+1003,2024-05-01,Tax:Singapore,-4000
+1004,2024-05-01,Travel:Air Travel,0
+1005,2024-05-01,Travel:Cash,0
+1006,2024-05-01,Travel:Entertainment,0
+1007,2024-05-01,Travel:Grocery,0
+1008,2024-05-01,Travel:Hotel,0
+1009,2024-05-01,Travel:Rental Car & Taxi,0
+1010,2024-05-01,Travel:Restaurant,0
+1011,2024-05-01,Travel:US Flights,0
+1012,2024-06-01,401K,-3000
+1013,2024-06-01,Auto & Transport:Auto Payment,-500
+1014,2024-06-01,Auto & Transport:Gas & Fuel,-100
+1015,2024-06-01,Auto & Transport:Parking,-50
+1016,2024-06-01,Auto & Transport:Public Transportation,-50
+1017,2024-06-01,Auto & Transport:Taxi & Uber,-100
+1018,2024-06-01,Bills & Utilities:Internet,-50
+1019,2024-06-01,Bills & Utilities:Mobile Phone,-100
+1020,2024-06-01,Bills & Utilities:Utilities,-250
+1021,2024-06-01,Cash & ATM,-100
+1022,2024-06-01,Child Savings Account 1,-50
+1023,2024-06-01,Child Savings Account 2,-50
+1024,2024-06-01,Education,-200
+1025,2024-06-01,Entertainment,-80
+1026,2024-06-01,Fees & Charges,0
+1027,2024-06-01,Financial:Life Insurance,0
+1028,2024-06-01,Food & Dining:Bars & Restaurants,-450
+1029,2024-06-01,Food & Dining:Coffee Shops,-150
+1030,2024-06-01,Food & Dining:Delivery,-250
+1031,2024-06-01,Food & Dining:Groceries,-2000
+1032,2024-06-01,Food & Dining:Lunch,-75
+1033,2024-06-01,Gifts & Donations:Charity,0
+1034,2024-06-01,Gifts & Donations:Gift,-200
+1035,2024-06-01,Health & Fitness:Child 1,-200
+1036,2024-06-01,Health & Fitness:Child 2,-200
+1037,2024-06-01,Health & Fitness:Child 3,-200
+1038,2024-06-01,Health & Fitness:Dentist,0
+1039,2024-06-01,Health & Fitness:Doctor,0
+1040,2024-06-01,Health & Fitness:Eyecare,0
+1041,2024-06-01,Health & Fitness:Gym,0
+1042,2024-06-01,Health & Fitness:Health Insurance,0
+1043,2024-06-01,Health & Fitness:Pharmacy,-50
+1044,2024-06-01,Home:Cleaning,0
+1045,2024-06-01,Home:Furnishings,-50
+1046,2024-06-01,Home:Home Supplies,-60
+1047,2024-06-01,Home:Rent,-7000
+1048,2024-06-01,Kids:Baby Supplies,-100
+1049,2024-06-01,Kids:Babysitter & Daycare,-6550
+1050,2024-06-01,Kids:Clothing,-20
+1051,2024-06-01,Kids:Diapers,-80
+1052,2024-06-01,Kids:Kids Activities,-700
+1053,2024-06-01,Kids:Toys,-10
+1054,2024-06-01,Kids:Wipes,-30
+1055,2024-06-01,Memberships,-50
+1056,2024-06-01,Net Salary:Bonus,0
+1057,2024-06-01,Net Salary:Salary,16000
+1058,2024-06-01,Net Salary:Salary Spouse,16000
+1059,2024-06-01,Other,0
+1060,2024-06-01,Personal Care,-100
+1061,2024-06-01,Shopping:Clothing,-150
+1062,2024-06-01,Shopping:Electronics & Software,-20
+1063,2024-06-01,Tax:Singapore,-4000
+1064,2024-06-01,Travel:Air Travel,0
+1065,2024-06-01,Travel:Cash,0
+1066,2024-06-01,Travel:Entertainment,0
+1067,2024-06-01,Travel:Grocery,0
+1068,2024-06-01,Travel:Hotel,0
+1069,2024-06-01,Travel:Rental Car & Taxi,0
+1070,2024-06-01,Travel:Restaurant,0
+1071,2024-06-01,Travel:US Flights,0
+1072,2024-07-01,401K,-3000
+1073,2024-07-01,Auto & Transport:Auto Payment,-500
+1074,2024-07-01,Auto & Transport:Gas & Fuel,-100
+1075,2024-07-01,Auto & Transport:Parking,-50
+1076,2024-07-01,Auto & Transport:Public Transportation,-50
+1077,2024-07-01,Auto & Transport:Taxi & Uber,-100
+1078,2024-07-01,Bills & Utilities:Internet,-50
+1079,2024-07-01,Bills & Utilities:Mobile Phone,-100
+1080,2024-07-01,Bills & Utilities:Utilities,-250
+1081,2024-07-01,Cash & ATM,-100
+1082,2024-07-01,Child Savings Account 1,-50
+1083,2024-07-01,Child Savings Account 2,-50
+1084,2024-07-01,Education,-200
+1085,2024-07-01,Entertainment,-80
+1086,2024-07-01,Fees & Charges,0
+1087,2024-07-01,Financial:Life Insurance,0
+1088,2024-07-01,Food & Dining:Bars & Restaurants,-450
+1089,2024-07-01,Food & Dining:Coffee Shops,-150
+1090,2024-07-01,Food & Dining:Delivery,-250
+1091,2024-07-01,Food & Dining:Groceries,-2000
+1092,2024-07-01,Food & Dining:Lunch,-75
+1093,2024-07-01,Gifts & Donations:Charity,0
+1094,2024-07-01,Gifts & Donations:Gift,-200
+1095,2024-07-01,Health & Fitness:Child 1,-200
+1096,2024-07-01,Health & Fitness:Child 2,-200
+1097,2024-07-01,Health & Fitness:Child 3,-200
+1098,2024-07-01,Health & Fitness:Dentist,-60
+1099,2024-07-01,Health & Fitness:Doctor,0
+1100,2024-07-01,Health & Fitness:Eyecare,0
+1101,2024-07-01,Health & Fitness:Gym,0
+1102,2024-07-01,Health & Fitness:Health Insurance,0
+1103,2024-07-01,Health & Fitness:Pharmacy,-50
+1104,2024-07-01,Home:Cleaning,0
+1105,2024-07-01,Home:Furnishings,-50
+1106,2024-07-01,Home:Home Supplies,-60
+1107,2024-07-01,Home:Rent,-7000
+1108,2024-07-01,Kids:Baby Supplies,-100
+1109,2024-07-01,Kids:Babysitter & Daycare,-6550
+1110,2024-07-01,Kids:Clothing,-20
+1111,2024-07-01,Kids:Diapers,-80
+1112,2024-07-01,Kids:Kids Activities,-700
+1113,2024-07-01,Kids:Toys,-10
+1114,2024-07-01,Kids:Wipes,-30
+1115,2024-07-01,Memberships,-50
+1116,2024-07-01,Net Salary:Bonus,0
+1117,2024-07-01,Net Salary:Salary,16000
+1118,2024-07-01,Net Salary:Salary Spouse,16000
+1119,2024-07-01,Other,0
+1120,2024-07-01,Personal Care,-100
+1121,2024-07-01,Shopping:Clothing,-150
+1122,2024-07-01,Shopping:Electronics & Software,-20
+1123,2024-07-01,Tax:Singapore,-4000
+1124,2024-07-01,Travel:Air Travel,-1000
+1125,2024-07-01,Travel:Cash,0
+1126,2024-07-01,Travel:Entertainment,0
+1127,2024-07-01,Travel:Grocery,0
+1128,2024-07-01,Travel:Hotel,-2000
+1129,2024-07-01,Travel:Rental Car & Taxi,0
+1130,2024-07-01,Travel:Restaurant,0
+1131,2024-07-01,Travel:US Flights,0
+1132,2024-08-01,401K,-3000
+1133,2024-08-01,Auto & Transport:Auto Payment,-500
+1134,2024-08-01,Auto & Transport:Gas & Fuel,-100
+1135,2024-08-01,Auto & Transport:Parking,-50
+1136,2024-08-01,Auto & Transport:Public Transportation,-50
+1137,2024-08-01,Auto & Transport:Taxi & Uber,-100
+1138,2024-08-01,Bills & Utilities:Internet,-50
+1139,2024-08-01,Bills & Utilities:Mobile Phone,-100
+1140,2024-08-01,Bills & Utilities:Utilities,-250
+1141,2024-08-01,Cash & ATM,-100
+1142,2024-08-01,Child Savings Account 1,-50
+1143,2024-08-01,Child Savings Account 2,-50
+1144,2024-08-01,Education,-200
+1145,2024-08-01,Entertainment,-80
+1146,2024-08-01,Fees & Charges,0
+1147,2024-08-01,Financial:Life Insurance,0
+1148,2024-08-01,Food & Dining:Bars & Restaurants,-450
+1149,2024-08-01,Food & Dining:Coffee Shops,-150
+1150,2024-08-01,Food & Dining:Delivery,-250
+1151,2024-08-01,Food & Dining:Groceries,-2000
+1152,2024-08-01,Food & Dining:Lunch,-75
+1153,2024-08-01,Gifts & Donations:Charity,0
+1154,2024-08-01,Gifts & Donations:Gift,-200
+1155,2024-08-01,Health & Fitness:Child 1,-200
+1156,2024-08-01,Health & Fitness:Child 2,-200
+1157,2024-08-01,Health & Fitness:Child 3,-200
+1158,2024-08-01,Health & Fitness:Dentist,0
+1159,2024-08-01,Health & Fitness:Doctor,0
+1160,2024-08-01,Health & Fitness:Eyecare,0
+1161,2024-08-01,Health & Fitness:Gym,0
+1162,2024-08-01,Health & Fitness:Health Insurance,0
+1163,2024-08-01,Health & Fitness:Pharmacy,-50
+1164,2024-08-01,Home:Cleaning,0
+1165,2024-08-01,Home:Furnishings,-50
+1166,2024-08-01,Home:Home Supplies,-60
+1167,2024-08-01,Home:Rent,-7000
+1168,2024-08-01,Kids:Baby Supplies,-100
+1169,2024-08-01,Kids:Babysitter & Daycare,-6550
+1170,2024-08-01,Kids:Clothing,-20
+1171,2024-08-01,Kids:Diapers,-80
+1172,2024-08-01,Kids:Kids Activities,-700
+1173,2024-08-01,Kids:Toys,-10
+1174,2024-08-01,Kids:Wipes,-30
+1175,2024-08-01,Memberships,-50
+1176,2024-08-01,Net Salary:Bonus,0
+1177,2024-08-01,Net Salary:Salary,16000
+1178,2024-08-01,Net Salary:Salary Spouse,16000
+1179,2024-08-01,Other,0
+1180,2024-08-01,Personal Care,-100
+1181,2024-08-01,Shopping:Clothing,-150
+1182,2024-08-01,Shopping:Electronics & Software,-20
+1183,2024-08-01,Tax:Singapore,-4000
+1184,2024-08-01,Travel:Air Travel,0
+1185,2024-08-01,Travel:Cash,0
+1186,2024-08-01,Travel:Entertainment,0
+1187,2024-08-01,Travel:Grocery,0
+1188,2024-08-01,Travel:Hotel,0
+1189,2024-08-01,Travel:Rental Car & Taxi,0
+1190,2024-08-01,Travel:Restaurant,0
+1191,2024-08-01,Travel:US Flights,0
+1192,2024-09-01,401K,-3000
+1193,2024-09-01,Auto & Transport:Auto Payment,-500
+1194,2024-09-01,Auto & Transport:Gas & Fuel,-100
+1195,2024-09-01,Auto & Transport:Parking,-50
+1196,2024-09-01,Auto & Transport:Public Transportation,-50
+1197,2024-09-01,Auto & Transport:Taxi & Uber,-100
+1198,2024-09-01,Bills & Utilities:Internet,-50
+1199,2024-09-01,Bills & Utilities:Mobile Phone,-100
+1200,2024-09-01,Bills & Utilities:Utilities,-250
+1201,2024-09-01,Cash & ATM,-100
+1202,2024-09-01,Child Savings Account 1,-50
+1203,2024-09-01,Child Savings Account 2,-50
+1204,2024-09-01,Education,-200
+1205,2024-09-01,Entertainment,-80
+1206,2024-09-01,Fees & Charges,0
+1207,2024-09-01,Financial:Life Insurance,0
+1208,2024-09-01,Food & Dining:Bars & Restaurants,-450
+1209,2024-09-01,Food & Dining:Coffee Shops,-150
+1210,2024-09-01,Food & Dining:Delivery,-250
+1211,2024-09-01,Food & Dining:Groceries,-2000
+1212,2024-09-01,Food & Dining:Lunch,-75
+1213,2024-09-01,Gifts & Donations:Charity,0
+1214,2024-09-01,Gifts & Donations:Gift,-200
+1215,2024-09-01,Health & Fitness:Child 1,-200
+1216,2024-09-01,Health & Fitness:Child 2,-200
+1217,2024-09-01,Health & Fitness:Child 3,-200
+1218,2024-09-01,Health & Fitness:Dentist,0
+1219,2024-09-01,Health & Fitness:Doctor,0
+1220,2024-09-01,Health & Fitness:Eyecare,0
+1221,2024-09-01,Health & Fitness:Gym,0
+1222,2024-09-01,Health & Fitness:Health Insurance,0
+1223,2024-09-01,Health & Fitness:Pharmacy,-50
+1224,2024-09-01,Home:Cleaning,0
+1225,2024-09-01,Home:Furnishings,-50
+1226,2024-09-01,Home:Home Supplies,-60
+1227,2024-09-01,Home:Rent,-7000
+1228,2024-09-01,Kids:Baby Supplies,-100
+1229,2024-09-01,Kids:Babysitter & Daycare,-6550
+1230,2024-09-01,Kids:Clothing,-20
+1231,2024-09-01,Kids:Diapers,-80
+1232,2024-09-01,Kids:Kids Activities,-700
+1233,2024-09-01,Kids:Toys,-10
+1234,2024-09-01,Kids:Wipes,-30
+1235,2024-09-01,Memberships,-50
+1236,2024-09-01,Net Salary:Bonus,0
+1237,2024-09-01,Net Salary:Salary,16000
+1238,2024-09-01,Net Salary:Salary Spouse,16000
+1239,2024-09-01,Other,0
+1240,2024-09-01,Personal Care,-100
+1241,2024-09-01,Shopping:Clothing,-150
+1242,2024-09-01,Shopping:Electronics & Software,-20
+1243,2024-09-01,Tax:Singapore,-4000
+1244,2024-09-01,Travel:Air Travel,0
+1245,2024-09-01,Travel:Cash,0
+1246,2024-09-01,Travel:Entertainment,0
+1247,2024-09-01,Travel:Grocery,0
+1248,2024-09-01,Travel:Hotel,0
+1249,2024-09-01,Travel:Rental Car & Taxi,0
+1250,2024-09-01,Travel:Restaurant,0
+1251,2024-09-01,Travel:US Flights,0
+1252,2024-10-01,401K,-3000
+1253,2024-10-01,Auto & Transport:Auto Payment,-500
+1254,2024-10-01,Auto & Transport:Gas & Fuel,-100
+1255,2024-10-01,Auto & Transport:Parking,-50
+1256,2024-10-01,Auto & Transport:Public Transportation,-50
+1257,2024-10-01,Auto & Transport:Taxi & Uber,-100
+1258,2024-10-01,Bills & Utilities:Internet,-50
+1259,2024-10-01,Bills & Utilities:Mobile Phone,-100
+1260,2024-10-01,Bills & Utilities:Utilities,-250
+1261,2024-10-01,Cash & ATM,-100
+1262,2024-10-01,Child Savings Account 1,-50
+1263,2024-10-01,Child Savings Account 2,-50
+1264,2024-10-01,Education,-200
+1265,2024-10-01,Entertainment,-80
+1266,2024-10-01,Fees & Charges,0
+1267,2024-10-01,Financial:Life Insurance,0
+1268,2024-10-01,Food & Dining:Bars & Restaurants,-450
+1269,2024-10-01,Food & Dining:Coffee Shops,-150
+1270,2024-10-01,Food & Dining:Delivery,-250
+1271,2024-10-01,Food & Dining:Groceries,-2000
+1272,2024-10-01,Food & Dining:Lunch,-75
+1273,2024-10-01,Gifts & Donations:Charity,0
+1274,2024-10-01,Gifts & Donations:Gift,-200
+1275,2024-10-01,Health & Fitness:Child 1,-200
+1276,2024-10-01,Health & Fitness:Child 2,-200
+1277,2024-10-01,Health & Fitness:Child 3,-200
+1278,2024-10-01,Health & Fitness:Dentist,0
+1279,2024-10-01,Health & Fitness:Doctor,0
+1280,2024-10-01,Health & Fitness:Eyecare,0
+1281,2024-10-01,Health & Fitness:Gym,0
+1282,2024-10-01,Health & Fitness:Health Insurance,0
+1283,2024-10-01,Health & Fitness:Pharmacy,-50
+1284,2024-10-01,Home:Cleaning,0
+1285,2024-10-01,Home:Furnishings,-50
+1286,2024-10-01,Home:Home Supplies,-60
+1287,2024-10-01,Home:Rent,-7000
+1288,2024-10-01,Kids:Baby Supplies,-100
+1289,2024-10-01,Kids:Babysitter & Daycare,-6550
+1290,2024-10-01,Kids:Clothing,-20
+1291,2024-10-01,Kids:Diapers,-80
+1292,2024-10-01,Kids:Kids Activities,-700
+1293,2024-10-01,Kids:Toys,-10
+1294,2024-10-01,Kids:Wipes,-30
+1295,2024-10-01,Memberships,-50
+1296,2024-10-01,Net Salary:Bonus,0
+1297,2024-10-01,Net Salary:Salary,16000
+1298,2024-10-01,Net Salary:Salary Spouse,16000
+1299,2024-10-01,Other,0
+1300,2024-10-01,Personal Care,-100
+1301,2024-10-01,Shopping:Clothing,-150
+1302,2024-10-01,Shopping:Electronics & Software,-20
+1303,2024-10-01,Tax:Singapore,-4000
+1304,2024-10-01,Travel:Air Travel,-2000
+1305,2024-10-01,Travel:Cash,0
+1306,2024-10-01,Travel:Entertainment,0
+1307,2024-10-01,Travel:Grocery,0
+1308,2024-10-01,Travel:Hotel,-3000
+1309,2024-10-01,Travel:Rental Car & Taxi,0
+1310,2024-10-01,Travel:Restaurant,0
+1311,2024-10-01,Travel:US Flights,0
+1312,2024-11-01,401K,-3000
+1313,2024-11-01,Auto & Transport:Auto Payment,-500
+1314,2024-11-01,Auto & Transport:Gas & Fuel,-100
+1315,2024-11-01,Auto & Transport:Parking,-50
+1316,2024-11-01,Auto & Transport:Public Transportation,-50
+1317,2024-11-01,Auto & Transport:Taxi & Uber,-100
+1318,2024-11-01,Bills & Utilities:Internet,-50
+1319,2024-11-01,Bills & Utilities:Mobile Phone,-100
+1320,2024-11-01,Bills & Utilities:Utilities,-250
+1321,2024-11-01,Cash & ATM,-100
+1322,2024-11-01,Child Savings Account 1,-50
+1323,2024-11-01,Child Savings Account 2,-50
+1324,2024-11-01,Education,-200
+1325,2024-11-01,Entertainment,-80
+1326,2024-11-01,Fees & Charges:Credit Card - Fee,-500
+1327,2024-11-01,Financial:Life Insurance,-1000
+1328,2024-11-01,Food & Dining:Bars & Restaurants,-450
+1329,2024-11-01,Food & Dining:Coffee Shops,-150
+1330,2024-11-01,Food & Dining:Delivery,-250
+1331,2024-11-01,Food & Dining:Groceries,-2000
+1332,2024-11-01,Food & Dining:Lunch,-75
+1333,2024-11-01,Gifts & Donations:Charity,0
+1334,2024-11-01,Gifts & Donations:Gift,-200
+1335,2024-11-01,Health & Fitness:Child 1,-200
+1336,2024-11-01,Health & Fitness:Child 2,-200
+1337,2024-11-01,Health & Fitness:Child 3,-200
+1338,2024-11-01,Health & Fitness:Dentist,0
+1339,2024-11-01,Health & Fitness:Doctor,0
+1340,2024-11-01,Health & Fitness:Eyecare,0
+1341,2024-11-01,Health & Fitness:Gym,0
+1342,2024-11-01,Health & Fitness:Health Insurance,0
+1343,2024-11-01,Health & Fitness:Pharmacy,-50
+1344,2024-11-01,Home:Cleaning,0
+1345,2024-11-01,Home:Furnishings,-50
+1346,2024-11-01,Home:Home Supplies,-60
+1347,2024-11-01,Home:Rent,-7000
+1348,2024-11-01,Kids:Baby Supplies,-100
+1349,2024-11-01,Kids:Babysitter & Daycare,-6550
+1350,2024-11-01,Kids:Clothing,-20
+1351,2024-11-01,Kids:Diapers,-40
+1352,2024-11-01,Kids:Kids Activities,-700
+1353,2024-11-01,Kids:Toys,-10
+1354,2024-11-01,Kids:Wipes,-10
+1355,2024-11-01,Memberships,-50
+1356,2024-11-01,Net Salary:Bonus,0
+1357,2024-11-01,Net Salary:Salary,16000
+1358,2024-11-01,Net Salary:Salary Spouse,16000
+1359,2024-11-01,Other,0
+1360,2024-11-01,Personal Care,-100
+1361,2024-11-01,Shopping:Clothing,-150
+1362,2024-11-01,Shopping:Electronics & Software,-20
+1363,2024-11-01,Tax:Singapore,-4000
+1364,2024-11-01,Travel:Air Travel,0
+1365,2024-11-01,Travel:Cash,0
+1366,2024-11-01,Travel:Entertainment,0
+1367,2024-11-01,Travel:Grocery,0
+1368,2024-11-01,Travel:Hotel,0
+1369,2024-11-01,Travel:Rental Car & Taxi,0
+1370,2024-11-01,Travel:Restaurant,0
+1371,2024-11-01,Travel:US Flights,0
+1372,2024-12-01,401K,-3000
+1373,2024-12-01,Auto & Transport:Auto Payment,-500
+1374,2024-12-01,Auto & Transport:Gas & Fuel,-100
+1375,2024-12-01,Auto & Transport:Parking,-50
+1376,2024-12-01,Auto & Transport:Public Transportation,-50
+1377,2024-12-01,Auto & Transport:Taxi & Uber,-100
+1378,2024-12-01,Bills & Utilities:Internet,-50
+1379,2024-12-01,Bills & Utilities:Mobile Phone,-100
+1380,2024-12-01,Bills & Utilities:Utilities,-250
+1381,2024-12-01,Cash & ATM,-100
+1382,2024-12-01,Child Savings Account 1,-50
+1383,2024-12-01,Child Savings Account 2,-50
+1384,2024-12-01,Education,-200
+1385,2024-12-01,Entertainment,-80
+1386,2024-12-01,Fees & Charges,0
+1387,2024-12-01,Financial:Life Insurance,0
+1388,2024-12-01,Food & Dining:Bars & Restaurants,-450
+1389,2024-12-01,Food & Dining:Coffee Shops,-150
+1390,2024-12-01,Food & Dining:Delivery,-250
+1391,2024-12-01,Food & Dining:Groceries,-2000
+1392,2024-12-01,Food & Dining:Lunch,-75
+1393,2024-12-01,Gifts & Donations:Charity,-500
+1394,2024-12-01,Gifts & Donations:Gift,-200
+1395,2024-12-01,Health & Fitness:Child 1,-200
+1396,2024-12-01,Health & Fitness:Child 2,-200
+1397,2024-12-01,Health & Fitness:Child 3,-200
+1398,2024-12-01,Health & Fitness:Dentist,0
+1399,2024-12-01,Health & Fitness:Doctor,0
+1400,2024-12-01,Health & Fitness:Eyecare,0
+1401,2024-12-01,Health & Fitness:Gym,0
+1402,2024-12-01,Health & Fitness:Health Insurance,0
+1403,2024-12-01,Health & Fitness:Pharmacy,-50
+1404,2024-12-01,Home:Cleaning,0
+1405,2024-12-01,Home:Furnishings,-50
+1406,2024-12-01,Home:Home Supplies,-60
+1407,2024-12-01,Home:Rent,-7000
+1408,2024-12-01,Kids:Baby Supplies,-100
+1409,2024-12-01,Kids:Babysitter & Daycare,-6550
+1410,2024-12-01,Kids:Clothing,-20
+1411,2024-12-01,Kids:Diapers,-40
+1412,2024-12-01,Kids:Kids Activities,-700
+1413,2024-12-01,Kids:Toys,-10
+1414,2024-12-01,Kids:Wipes,-10
+1415,2024-12-01,Memberships,-50
+1416,2024-12-01,Net Salary:Bonus,0
+1417,2024-12-01,Net Salary:Salary,16000
+1418,2024-12-01,Net Salary:Salary Spouse,16000
+1419,2024-12-01,Other,0
+1420,2024-12-01,Personal Care,-100
+1421,2024-12-01,Shopping:Clothing,-150
+1422,2024-12-01,Shopping:Electronics & Software,-20
+1423,2024-12-01,Tax:Singapore,-4000
+1424,2024-12-01,Travel:Air Travel,0
+1425,2024-12-01,Travel:Cash,0
+1426,2024-12-01,Travel:Entertainment,0
+1427,2024-12-01,Travel:Grocery,0
+1428,2024-12-01,Travel:Hotel,0
+1429,2024-12-01,Travel:Rental Car & Taxi,-200
+1430,2024-12-01,Travel:Restaurant,0
+1431,2024-12-01,Travel:Travel Insurance,-100
+1432,2024-12-01,Travel:US Flights,-5000

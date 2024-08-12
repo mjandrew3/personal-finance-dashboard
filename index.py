@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from dash import dcc, html
+from dash import dcc, html, callback_context
 from dash.dependencies import Input, Output
 
 from app import app
@@ -12,7 +12,7 @@ app.layout = html.Div([
     dcc.Location(id='url', refresh=False), # Allows the use of the url
     html.Div(id='page-content', children=[
         html.Div([
-            html.A('Please select a tab', id='icon', n_clicks=1, className='icon'),
+            html.A('Personal Finance Application', id='icon', n_clicks=1, className='icon'),
             html.Div(
                 #Creates tabs at the top of the page for easy navigation
                 [dcc.Tabs(id='tabs',children=[
